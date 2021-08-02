@@ -4,5 +4,9 @@ Golden Gate Assembly (set link to GGA protocol file) of Phi29 Terminal protein (
 Make Agar+LB plates with Carbenicillin 
 
 ## July 2nd
-Transform Phi29-pGS21a into DH5alpha using electroporation protocol (link electroporation protocol) 
+Transform Phi29-pGS21a into DH5alpha using electroporation protocol(link electroporation protocol) 
+| Contents   | Volume |
+| ----| ---- |
+| DNA | 2uL |
+| DH5a | 25uL |
 
