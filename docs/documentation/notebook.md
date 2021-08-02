@@ -5,6 +5,7 @@ Cleanup Assembly:
 | Concentration |
 | ------------- |
 |  look in Noras notebook ng/uL |
+
 Make Agar+LB plates with Carbenicillin 
 
 ## July 2nd
