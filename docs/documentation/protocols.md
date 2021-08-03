@@ -5,7 +5,7 @@
 ### PCR 
 [PCR protocol](https://github.com/idec2021/UOregon/blob/main/docs/documentation/PCR%20protocol)
 
-[Colony PCR protocol]()
+[Colony PCR protocol](https://github.com/idec2021/UOregon/blob/main/docs/documentation/Colony%20PCR)
 
 ## Run a Gel 
 [Gel Electrophoresis Protocol]()
