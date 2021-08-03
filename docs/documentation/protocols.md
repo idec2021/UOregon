@@ -29,6 +29,8 @@
 ## Transformation
 [Electroporation into DH5a]()
 
-[Chemically competent into T7 Express]()
+[Chemical into T7 Express]()
+
+ 
 
 
