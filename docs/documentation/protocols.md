@@ -8,7 +8,7 @@
 [Colony PCR protocol](https://github.com/idec2021/UOregon/blob/main/docs/documentation/Colony%20PCR)
 
 ## Run a Gel 
-[Gel Electrophoresis Protocol]()
+[DNA Gel Electrophoresis Protocol](https://github.com/idec2021/UOregon/blob/main/docs/documentation/Gel%20Electrophoresis%20Protocol)
 
 [Protein Gel Protocol]()
 
