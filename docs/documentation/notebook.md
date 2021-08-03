@@ -10,7 +10,7 @@ Make Agar+LB plates with Carbenicillin
 
 ## July 2nd
 Transform Phi29-pGS21a into DH5alpha using electroporation protocol(link electroporation protocol) 
-| Contents   | Volume |
+| Component   | Volume |
 | ----| ---- |
 | DNA | 2uL |
 | DH5a | 25uL |
