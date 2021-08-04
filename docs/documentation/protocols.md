@@ -26,10 +26,15 @@
 ## Miniprep 
 [MiniPrep Protocol]()
 
+## Pouring Plates 
+[LB+Agar+Antibiotic Plates]()
+
 ## Transformation
 [Electroporation into DH5a]()
 
 [Chemical into T7 Express]()
+
+
 
  
 
