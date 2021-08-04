@@ -26,7 +26,7 @@
 [Inoculating an Overnight Culture Protocol ]()
 
 ## Miniprep 
-[MiniPrep Protocol]()
+[MiniPrep Protocol](https://github.com/idec2021/UOregon/blob/main/docs/documentation/MiniPrep%20Procol)
 
 ## Pouring Plates 
 [LB+Agar+Antibiotic Plates Protocol](https://github.com/idec2021/UOregon/blob/main/docs/documentation/Plating%20Protocol)
