@@ -13,7 +13,7 @@
 [Protein Gel Protocol](https://github.com/idec2021/UOregon/blob/main/docs/documentation/Protein%20Gel%20Protocol)
 
 ## Digest
-[Restriction Digest Protcol]()
+[Restriction Digest Protcol](https://github.com/idec2021/UOregon/blob/main/docs/documentation/Restriction%20Digest%20Protocol)
 
 [Nicking Digest Protocol]()
 
