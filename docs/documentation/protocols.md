@@ -15,7 +15,7 @@
 ## Digest
 [Restriction Digest Protcol](https://github.com/idec2021/UOregon/blob/main/docs/documentation/Restriction%20Digest%20Protocol)
 
-[Nicking Digest Protocol]()
+[Nicking Digest Protocol](https://github.com/idec2021/UOregon/blob/main/docs/documentation/Nicking%20Digest%20Protocol)
 
 ## Ligation 
 [Ligation Protocol]()
