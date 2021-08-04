@@ -18,21 +18,23 @@
 [Nicking Digest Protocol](https://github.com/idec2021/UOregon/blob/main/docs/documentation/Nicking%20Digest%20Protocol)
 
 ## Ligation 
-[Ligation Protocol]()
+[T4 Ligation Protocol]()
+
+[T7 Ligation Protocol]()
 
 ## Inoculation
-[Inoculation]()
+[Inoculating an Overnight Culture Protocol ]()
 
 ## Miniprep 
 [MiniPrep Protocol]()
 
 ## Pouring Plates 
-[LB+Agar+Antibiotic Plates]()
+[LB+Agar+Antibiotic Plates Protocol]()
 
 ## Transformation
-[Electroporation into DH5a]()
+[Electroporation into DH5a Protocol]()
 
-[Chemical into T7 Express]()
+[Chemical into T7 Express Protocol]()
 
 
 
