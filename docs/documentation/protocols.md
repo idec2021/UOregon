@@ -20,7 +20,7 @@
 ## Ligation 
 [T4 Ligation Protocol](https://github.com/idec2021/UOregon/blob/main/docs/documentation/T4%20ligation%20Protocol)
 
-[T7 Ligation Protocol]()
+[T7 Ligation Protocol](https://github.com/idec2021/UOregon/blob/main/docs/documentation/T7%20Ligation%20Protocol)
 
 ## Inoculation
 [Inoculating an Overnight Culture Protocol ]()
