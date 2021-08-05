@@ -1,7 +1,9 @@
 # Lab notebooks
 ## July 1st
 Golden Gate Assembly (set link to GGA protocol file) of Phi29 Terminal protein (TP) ,Single stranded binding protein (SSBP) and Double Stranded binding protein (DSBP)+pGS21a backbone with Phi29 DNA Polymerase(DNAP) 
+
 DpnI digest of backbone
+
 Cleanup Assembly:
 | Concentration |
 | ------------- |
@@ -23,6 +25,7 @@ Run Colony PCR (link protocol) on 15 colonies to ensure insert length using DH5a
 <img width="721" alt="Screen Shot 2021-08-05 at 11 36 10 AM" src="https://user-images.githubusercontent.com/77999251/128403234-d75b9962-cd51-46e3-a316-236d2c557678.png">
 
 Create an overnight culture with 10mL LB+ scrape 1 colony with pipette tip and eject into test tube+ 10uL Carb 
+
 Let shake in 37°C for 12-16 hours overnight 
 
 ## July 4th 
@@ -44,10 +47,12 @@ How the gel looked:
 <img width="349" alt="Screen Shot 2021-08-05 at 11 40 38 AM" src="https://user-images.githubusercontent.com/77999251/128403860-79ce778c-58e1-4b81-9b30-4e5857afa15c.png">
 
 Dilute down to 30 ng/uL to send for sequence validation by SNPsaurus using m1v1=m2v2 
+
 send 10uL of diluted sample 
 
 ## July 5th 
-sequence validated by SNPsaurus
+Sequence validated by SNPsaurus
+
 Colony 17 perfect alignment match on benchling 
 
 ## July 6th
