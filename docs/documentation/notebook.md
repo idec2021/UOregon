@@ -31,7 +31,7 @@ Let shake in 37°C for 12-16 hours overnight
 ## July 4th 
  Miniprep overnight culture
  Elute: 30 uL
- | Colony  | Concentration |
+ | Colony  | Qubit Concentration |
 | ----| ---- |
 | 13 | 53.4 ng/uL |
 | 17 | 65.6 ng/uL|
@@ -56,4 +56,16 @@ Sequence validated by SNPsaurus
 Colony 17 perfect alignment match on benchling 
 
 ## July 6th
+Use miniprep Colony 17 from 7/4 for chemically competent transformation(link protocol) into T7
+
+1 uL plasmid, 50 uL cells 
+
+Serial Dilution using 1:10 ratio 3x 
+
+Plate 100uL on Carb 
+
+## July 7th 
+Induce with 3 different concentrations of IPTG to test for protein toxicity on the cells by checking OD600 in a plate reader for 16 hours 
+
+
 
