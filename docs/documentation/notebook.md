@@ -34,11 +34,9 @@ Let shake in 37°C for 12-16 hours overnight
 | 17 | 65.6 ng/uL|
 
 Digest with KpnI+NdeI to confirm length
-How the gel shoud look:
-<img width="529" alt="Screen Shot 2021-08-05 at 11 40 25 AM" src="https://user-images.githubusercontent.com/77999251/128403800-bee71f4d-a8e9-42be-bb92-280fb95fc921.png">
+How the gel shoud look:<img width="529" alt="Screen Shot 2021-08-05 at 11 40 25 AM" src="https://user-images.githubusercontent.com/77999251/128403800-bee71f4d-a8e9-42be-bb92-280fb95fc921.png">
 
-How the gel looked:
-<img width="349" alt="Screen Shot 2021-08-05 at 11 40 38 AM" src="https://user-images.githubusercontent.com/77999251/128403860-79ce778c-58e1-4b81-9b30-4e5857afa15c.png">
+How the gel looked:<img width="349" alt="Screen Shot 2021-08-05 at 11 40 38 AM" src="https://user-images.githubusercontent.com/77999251/128403860-79ce778c-58e1-4b81-9b30-4e5857afa15c.png">
 
 
 
