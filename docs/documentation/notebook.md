@@ -43,13 +43,12 @@ How the gel looked:
 
 <img width="349" alt="Screen Shot 2021-08-05 at 11 40 38 AM" src="https://user-images.githubusercontent.com/77999251/128403860-79ce778c-58e1-4b81-9b30-4e5857afa15c.png">
 
+Dilute down to 30 ng/uL to send for sequence validation by SNPsaurus using m1v1=m2v2 
+send 10uL of diluted sample 
 
+## July 5th 
+sequence validated by SNPsaurus
+Colony 17 perfect alignment match on benchling 
 
-Dilute down to 30 ng/uL to send for sequence validation by SNPsaurus 
- 
- 
- 
- 
- 
- sequence validated by SNPsaurus 
+## July 6th
 
