@@ -20,7 +20,8 @@ Plate 100uL on Carb
 
 ## July 3rd 
 Run Colony PCR (link protocol) on 15 colonies to ensure insert length using DH5a as control 
-![dpn1digestedpgs21aphi29_PUB_341_PUB_340](https://user-images.githubusercontent.com/77999251/128403041-728c1943-e46c-4dce-9113-c57337f3ac74.jpg)
+<img width="721" alt="Screen Shot 2021-08-05 at 11 36 10 AM" src="https://user-images.githubusercontent.com/77999251/128403234-d75b9962-cd51-46e3-a316-236d2c557678.png">
+
 
 
 Create an overnight culture with 10mL LB+ scrape 1 colony with pipette tip and eject into test tube+ 10uL Carb 
