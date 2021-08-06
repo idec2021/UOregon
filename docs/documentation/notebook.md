@@ -66,6 +66,18 @@ Plate 100uL on Carb
 
 ## July 7th 
 Induce with 3 different concentrations of IPTG to test for protein toxicity on the cells by checking OD600 in a plate reader for 16 hours 
-
+| Type of Cells |Concentration of IPTG |Volume of cells | Volume of IPTG | Volume of LB |---- |
+| Col 17| |---- |---- |---- |---- |
+| Col 17| 53.4 ng/uL |---- |---- |---- |---- |
+| Col 17 | 65.6 ng/uL|---- |---- |---- |---- |
+| Col 17 |---- |---- |---- |---- |---- |
+| Col 17 |---- |---- |---- |---- |---- |
+| Col 17 |---- |---- |---- |---- |---- |
+| T7 (-)|---- |---- |---- |---- |---- |
+| T7 (-) |---- |---- |---- |---- |---- |
+| T7 (-) |---- |---- |---- |---- |---- |
+| LB (-) |---- |---- |---- |---- |---- |
+| LB (-) |---- |---- |---- |---- |---- |
+| LB (-) |---- |---- |---- |---- |---- |
 
 
