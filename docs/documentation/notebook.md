@@ -65,19 +65,27 @@ Serial Dilution using 1:10 ratio 3x
 Plate 100uL on Carb 
 
 ## July 7th 
+Make an overnight culture with Colony plated on Carb and T7 cells with no colony (from stock) 
+
+## July 8th
+T7 OD600: 4.91
+
+Col17 OD600: 4.62 
+
 Induce with 3 different concentrations of IPTG to test for protein toxicity on the cells by checking OD600 in a plate reader for 16 hours 
-| Type of Cells |Concentration of IPTG |Volume of cells | Volume of IPTG | Volume of LB |---- |
-| Col 17| |---- |---- |---- |---- |
-| Col 17| 53.4 ng/uL |---- |---- |---- |---- |
-| Col 17 | 65.6 ng/uL|---- |---- |---- |---- |
-| Col 17 |---- |---- |---- |---- |---- |
-| Col 17 |---- |---- |---- |---- |---- |
-| Col 17 |---- |---- |---- |---- |---- |
-| T7 (-)|---- |---- |---- |---- |---- |
-| T7 (-) |---- |---- |---- |---- |---- |
-| T7 (-) |---- |---- |---- |---- |---- |
-| LB (-) |---- |---- |---- |---- |---- |
-| LB (-) |---- |---- |---- |---- |---- |
-| LB (-) |---- |---- |---- |---- |---- |
+| Type of Cells |Concentration of IPTG |Volume of cells | Volume of IPTG | Volume of LB |
+| ----| |---- |---- |---- |---- |
+| Col 17| 0mM | |8.65 uL| 0uL | 791 uL |
+| Col 17 | 0.01mM| 8.65 uL | 0.08uL | 791 uL |
+| Col 17 | 0.05mM | 8.65 uL | 0.4uL | 790uL |
+| Col 17 | 0.1mM |  8.65 uL | 0.8uL | 790uL |
+| Col 17 | 0.5mM | 8.65 uL| 4 uL | 787uL |
+| Col 17 | 1mM | 8.65 uL| 8uL | 783uL |
+| T7 (-)| 0mM | 8.14 uL | 0uL | 791uL |
+| T7 (-) | 0.1 mM | 8.14 uL | 0.8uL | 790uL |
+| T7 (-) | 1mM | 8.14 uL  | 8uL | 783uL |
+| LB (-) | 0mM | 0 uL | 0uL | 800uL |
+| LB (-) | 0.1mM | 0uL | 0.8uL | 799uL |
+| LB (-) | 1mM | 0uL | 8uL | 792uL |
 
 
