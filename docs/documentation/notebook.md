@@ -76,13 +76,13 @@ Induce with 3 different concentrations of IPTG to test for protein toxicity on t
 
 | Type of Cells |Concentration of IPTG |Volume of cells | Volume of IPTG | Volume of LB |
 | ----| |---- |---- |---- |---- |
-| Col 17| 0mM | |8.65 uL| 0uL | 791 uL |
-| Col 17 | 0.01mM| 8.65 uL | 0.08uL | 791 uL |
+| Col 17 | 0mM |8.65 uL| 0uL | 791 uL |
+| Col 17 | 0.01mM | 8.65 uL | 0.08uL | 791 uL |
 | Col 17 | 0.05mM | 8.65 uL | 0.4uL | 790uL |
 | Col 17 | 0.1mM |  8.65 uL | 0.8uL | 790uL |
 | Col 17 | 0.5mM | 8.65 uL| 4 uL | 787uL |
 | Col 17 | 1mM | 8.65 uL| 8uL | 783uL |
-| T7 (-)| 0mM | 8.14 uL | 0uL | 791uL |
+| T7 (-) | 0mM | 8.14 uL | 0uL | 791uL |
 | T7 (-) | 0.1 mM | 8.14 uL | 0.8uL | 790uL |
 | T7 (-) | 1mM | 8.14 uL  | 8uL | 783uL |
 | LB (-) | 0mM | 0 uL | 0uL | 800uL |
