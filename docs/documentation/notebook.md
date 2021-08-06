@@ -73,6 +73,7 @@ T7 OD600: 4.91
 Col17 OD600: 4.62 
 
 Induce with 3 different concentrations of IPTG to test for protein toxicity on the cells by checking OD600 in a plate reader for 16 hours 
+
 | Type of Cells |Concentration of IPTG |Volume of cells | Volume of IPTG | Volume of LB |
 | ----| |---- |---- |---- |---- |
 | Col 17| 0mM | |8.65 uL| 0uL | 791 uL |
