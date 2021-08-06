@@ -100,5 +100,193 @@ Red = T7 no plasmid
 
 <img width="807" alt="Screen Shot 2021-08-06 at 11 07 59 AM" src="https://user-images.githubusercontent.com/77999251/128553658-eff9d808-12df-4789-bb6f-4afdc2b315f9.png">
 
+Made more Linear Plasmid using PCR, digestion and ligation of fragments (link protocol)
+
+| Fragment | Concentration after PCR eluted into 20uL |
+| ----| ---- |
+| OriL | 83 ng/uL |
+| Middle DHFR | 70.2 ng/uL|
+| OriR | 85 ng/uL|
+
+| Fragment | Concentration after Digest eluted into 12uL |
+| ----| ---- |
+| OriL | 54.6 ng/uL |
+| Middle DHFR| 65.4 ng/uL|
+| OriR | 45 ng/uL|
+
+Used Biomath Calculator to figure out volume of each fragment to add to ligation, 2:1 outer:inner
+
+OriL: 212 bp-> 0.6ug -> 3.13 pmol-> 8uL
+
+Middle DHFR: 348 bp -> 0.72 ug-> 3.13 pmol-> 11 uL
+
+OriR: 216 bp-> 0.49ug-> 3.13 pmol-> 10uL
+
+| pL Final Concentration eluted into 11uL | 
+| ----| 
+| 58.8 ng/uL|
+
+## July 12th
+Made plates:
+
+10 ug/mL Carb, 0.5 mg/mL Tri, 0mM IPTG
+
+10 ug/mL Carb, 0.5 mg/mL Tri, 0.1 mM IPTG
+
+10 ug/mL Carb, 0.5 mg/mL Tri, 1 mM IPTG 
+
+Started 3 Large inductions in flasks using cells from overnight culture 
+
+3 Concentrations of IPTG: 0mM , 0.1mM, 1.0 mM
+
+OD600 start: 0.05
+
+OD600 end: 0.7 
+
+Make cells electrocompetent(link protocol)
+
+Freeze some spun down cells in -80 
+
+Transform pL into T7 cells with pGS21a_Phi29_Col17 by Electroporation (link protocol) 
+
+Plate on compatible IPTG conc. plate 
+
+## July 13th 
+Ran a protein gel using spun down cells from induction in -80
+
+| Protein | Expected Size (kDa) |  
+| ----| ---- |
+| DNA Polymerase | 95 kDa | 
+| Terminal Protein | 31 kDa| 
+| Single Stranded Binding Protein | 13.3 kDa | 
+| Double Stranded Binding Protein | 12 kDa | 
+
+| Concentration of Supernatant| 0mM | 0.1mM | 1mM | T7 control |
+| ----|  | 26.5 mg/mL | 13 mg/mL | 21.1 mg/mL | 1.8 mg/mL |
+
+Ran 2 gels with  50 ug of each sample 
+
+| Volume ran on Gel | 0mM | 0.1mM | 1mM | T7 control |
+| ----|  | 1.88 uL | 3.8 uL | 2.4 uL | 27 uL |
+
+Stained one gel with Coomassie Blue, the other with Colloidal Overnight
+
+## July 14th 
+Imaged Both Gels, Gel stained with Colloidal was more clear 
+
+Gel stained with Colloidal: 
+
+<img width="338" alt="Screen Shot 2021-08-06 at 12 20 38 PM" src="https://user-images.githubusercontent.com/77999251/128561295-ca406fb3-a63e-478b-857d-407011127ee3.png">
+
+Realized that DNAP size might be too hard to see on gel, ordered 7.5% Biorad protein gel to zoom in on 90 kDa
+
+~Should have run only pGS21a backbone with no phi29 genes in as control~ 
+
+## July 19th 
+Make more pL (non-thiolated and thiolated) using different primers 
+
+| Nonthio pL Conc. | Thio pL Conc. |
+| ---- | ---- |
+| 85.6 ng/uL | 68.8 ng/uL |
+
+## July 20th
+Control for homemade electrocompetent cells/electroporation transformation efficency 
+
+Make more SEVA271 by transforming it into DH5a (link electrocomp protocol)
+ 
+Plate 100 uL on Kan diluted once with 1:10 dilution in LB
+
+## July 21st
+Make overnight culture of SEVA271 colony 
+
+Make overnight culture of T7 pGS21a_Phi29_Col17 cells 
+
+Pour Kan+Carb plates  
+
+Order protein 1 gblock and primers from IDT to incorporate it into pGS21a_Phi29_Col17 backbone
+
+## July 23rd
+Miniprep SEVA271 plasmid 
+
+Nick SEVA271 plasmid with Nb.BtsI (link protocol)
+
+Make T7 pGS21a_Phi29_Col17 cells electrocompetent and transform with SEVA271 
+
+Plate 100 uL from serial dilution (3) onto Kan+Carb plates 
+
+## July 26th 
+Count Colonies on SEVA271 plate and calculate transformation efficiency 
+
+Test for different concentrations of Trimethoprim using SEVA224+DHFR construct :
+
+PCR amplify SEVA224 and DHFR using primers ordered off of IDT 
+
+Cleanup elute : 20uL each 
+
+| SEVA224 | DHFR  |
+| ---- | ---- |
+|  70.9 ng/uL | 104.8 ng/uL |
+
+Resuspend p1 gblock gene fragment in elution buffer 
+
+## July 27th
+Ran gel of DHFR and SEVA24 PCR to ensure correct length 
+
+SEVA224 (~4000 bp shown next to 1 kb ladder) :
+
+<img width="249" alt="Screen Shot 2021-08-06 at 1 01 31 PM" src="https://user-images.githubusercontent.com/77999251/128565285-25c3f4e5-42f8-406e-8844-f5e8aef168b8.png">
+
+DHFR (~300bp shown next to 100 bp ladder) :
+
+<img width="265" alt="Screen Shot 2021-08-06 at 1 01 19 PM" src="https://user-images.githubusercontent.com/77999251/128565307-7cca5ddc-50f5-4b9a-9b69-1ce0ab963357.png">
+
+## August 2nd  
+DpnI digest of SEVA224 backbone
+
+SEVA224 conc. elute 16 uL : 49.3
+
+BsaI digest of SEVA224 and DHFR (link protocol)
+ 
+ 30 min. in add 1 uL rSAP to SEVA224
+ 
+ elute into 10 uL
+ 
+| SEVA224 | DHFR  |
+| ---- | ---- |
+|  37.9 ng/uL | 105.1 ng/uL |
+
+Ligated fragments together with T4 link protocol)
+
+## August 3rd 
+Chemically competent transformation into T7 Express
+
+Plated 100uL on Kan 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
