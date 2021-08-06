@@ -74,6 +74,8 @@ Col17 OD600: 4.62
 
 Induce with 3 different concentrations of IPTG to test for protein toxicity on the cells by checking OD600 in a plate reader for 16 hours 
 
+T7 no plasmid and only LB used as controls
+
 | Type of Cells | Concentration of IPTG | Volume of cells | Volume of IPTG | Volume of LB |
 | ---- | ---- | ---- | ---- | ---- |
 | Col 17 | 0mM | 8.65 uL| 0uL | 791 uL |
@@ -88,5 +90,15 @@ Induce with 3 different concentrations of IPTG to test for protein toxicity on t
 | LB (-) | 0mM | 0 uL | 0uL | 800uL |
 | LB (-) | 0.1mM | 0uL | 0.8uL | 799uL |
 | LB (-) | 1mM | 0uL | 8uL | 792uL |
+
+## July 9th 
+Induction Curve: 
+
+Blue = pGS21a_Phi29_Colony17 in T7
+
+Red = T7 no plasmid
+
+<img width="807" alt="Screen Shot 2021-08-06 at 11 07 59 AM" src="https://user-images.githubusercontent.com/77999251/128553658-eff9d808-12df-4789-bb6f-4afdc2b315f9.png">
+
 
 
