@@ -1,11 +1,11 @@
-## Protocol 
+# Protocol 
 
+### Before you begin 
 Dilute Primers down using 1:10 dilution concentration = 10uM
 
 Dilute Template DNA, concentration = 1 ng/uL
 
-Set up Reaction as Follows:
-
+### Set up reaction as follows:
 | Mastermix (Q5 Hot Start) | FWD Primer | REV Primer 2 | Template DNA | H2O | Total 
 | ----- | ----- | ----- | ----- | ----- | ----- | 
 | 25 uL | 1.5 uL | 1.5 uL | 1 uL | 21 uL | 50 uL |
