@@ -17,7 +17,7 @@
 [T4/T7 Ligation Protocol](https://github.com/idec2021/UOregon/blob/97139f70c7e54027fd061a288c07573dc5f15498/docs/documentation/T4_T7Ligation.md)
 
 ## Inoculation
-[Inoculating an Overnight Culture Protocol ](https://github.com/idec2021/UOregon/blob/main/docs/documentation/Inoculating%20an%20Overnight%20Culture%20Protocol)
+[Inoculating an Overnight Culture Protocol ](https://github.com/idec2021/UOregon/blob/942a25df5df5d2190395fdaeee23da8310277c9e/docs/documentation/Inoculation.md)
 
 ## Miniprep 
 [MiniPrep Protocol](https://github.com/idec2021/UOregon/blob/main/docs/documentation/MiniPrep%20Procol)
