@@ -8,7 +8,7 @@
 ## Run a Gel 
 [DNA Gel Electrophoresis Protocol](https://github.com/idec2021/UOregon/blob/2b9cd055b573f86dd3fb47c59a93467b84a29f4c/docs/documentation/DNA%20Gel.md)
 
-[Protein Gel Protocol](https://github.com/idec2021/UOregon/blob/main/docs/documentation/Protein%20Gel%20Protocol)
+[Protein Gel Protocol](https://github.com/idec2021/UOregon/blob/bf9f3d5cd75cb60c1d3bb2b37bda710efbc0da14/docs/documentation/Protein%20Gel.md)
 
 ## Digest
 [Restriction Digest Protcol](https://github.com/idec2021/UOregon/blob/main/docs/documentation/Restriction%20Digest%20Protocol)
