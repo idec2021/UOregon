@@ -1,7 +1,7 @@
 # Our Team
 
 ## Principal Investigator
-![Plesa_sq_lab049_small](https://user-images.githubusercontent.com/59736592/128741546-6b42e3ea-697f-4969-92b3-43d2c321f8d7.jpg)
+![Plesa_sq_lab049_small](https://user-images.githubusercontent.com/59736592/128741546-6b42e3ea-697f-4969-92b3-43d2c321f8d7.jpg) { width: 200px; }
 Calin is an Assistant Professor at the Knight Campus for Accelerating Scientific Impact. His research interests include biochemistry, synthetic biology, protein engineering, and microbiology. Work in the Plesa lab focuses specifically on large-scale gene synthesis and high-throughput methods to characterize sequence-function relationsihps.
 
 ## Team Lead
