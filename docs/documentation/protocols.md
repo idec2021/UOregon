@@ -11,12 +11,10 @@
 [Protein Gel Protocol](https://github.com/idec2021/UOregon/blob/bf9f3d5cd75cb60c1d3bb2b37bda710efbc0da14/docs/documentation/Protein%20Gel.md)
 
 ## Digest
-[Restriction Digest Protcol](https://github.com/idec2021/UOregon/blob/31618175d35dc6a5044b34e9a9e776005334f89a/docs/documentation/RestrictionDigest.md)
+[Restriction/Nicking Digest Protcol](https://github.com/idec2021/UOregon/blob/31618175d35dc6a5044b34e9a9e776005334f89a/docs/documentation/RestrictionDigest.md)
 
 ## Ligation 
-[T4 Ligation Protocol](https://github.com/idec2021/UOregon/blob/main/docs/documentation/T4%20ligation%20Protocol)
-
-[T7 Ligation Protocol](https://github.com/idec2021/UOregon/blob/main/docs/documentation/T7%20Ligation%20Protocol)
+[T4/T7 Ligation Protocol](https://github.com/idec2021/UOregon/blob/main/docs/documentation/T4%20ligation%20Protocol)
 
 ## Inoculation
 [Inoculating an Overnight Culture Protocol ](https://github.com/idec2021/UOregon/blob/main/docs/documentation/Inoculating%20an%20Overnight%20Culture%20Protocol)
