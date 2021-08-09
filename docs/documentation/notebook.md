@@ -149,9 +149,11 @@ Freeze some spun down cells in -80
 
 Transform pL into T7 cells with pGS21a_Phi29_Col17 by Electroporation (link protocol) 
 
-Plate on compatible IPTG conc. plate 
+Plate 100uL on compatible IPTG conc.  
 
 ## July 13th 
+No colonies found on any pL + pGS21a_Phi29 plates 
+
 Ran a protein gel using spun down cells from induction in -80
 
 | Protein | Expected Size (kDa) |  
@@ -260,7 +262,32 @@ Ligated fragments together with T4 link protocol)
 ## August 3rd 
 Chemically competent transformation into T7 Express
 
-Plated 100uL on Kan 
+Plated 100uL on Kan
+
+Made plates with:
+
+Kan + 0.5 mg/mL Tri
+
+Kan + 0.25 mg/mL Tri
+
+Kan + 0.1 mg/mL Tri 
+
+## August 4th 
+Saw growth on Kan only selection plates
+
+Restreaked 4 Colonies on each different concentration of Tri + Kan plates 
+
+## August 5th
+Saw growth on all Tri + Kan selection plates which means the concentration of Tri is not killing the cells 
+
+## August 9th 
+PCR amplify P1 and pGS21a_Phi29 backbone 
+
+Cleanup elute: 20uL 
+
+| P1 | pGS21a_Phi29 |
+| ---- | ---- |
+|  ng/uL | ng/uL |
 
 
 
