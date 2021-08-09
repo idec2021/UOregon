@@ -3,7 +3,7 @@
 ### PCR 
 [PCR protocol](https://github.com/idec2021/UOregon/blob/1414c0c78239a36b261f316c739b7b346fc299ec/docs/documentation/PCR%20protocol.md)
 
-[Colony PCR protocol](https://github.com/idec2021/UOregon/blob/main/docs/documentation/Colony%20PCR)
+[Colony PCR protocol](https://github.com/idec2021/UOregon/blob/a888262e445b475b1efdfb5fdcb20478c20796b5/docs/documentation/Colony%20PCR.md)
 
 ## Run a Gel 
 [DNA Gel Electrophoresis Protocol](https://github.com/idec2021/UOregon/blob/main/docs/documentation/Gel%20Electrophoresis%20Protocol)
