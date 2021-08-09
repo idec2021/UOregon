@@ -13,8 +13,6 @@
 ## Digest
 [Restriction Digest Protcol](https://github.com/idec2021/UOregon/blob/31618175d35dc6a5044b34e9a9e776005334f89a/docs/documentation/RestrictionDigest.md)
 
-[Nicking Digest Protocol](https://github.com/idec2021/UOregon/blob/main/docs/documentation/Nicking%20Digest%20Protocol)
-
 ## Ligation 
 [T4 Ligation Protocol](https://github.com/idec2021/UOregon/blob/main/docs/documentation/T4%20ligation%20Protocol)
 
