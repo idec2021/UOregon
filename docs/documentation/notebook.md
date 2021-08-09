@@ -232,7 +232,7 @@ Cleanup elute : 20uL each
 Resuspend p1 gblock gene fragment in elution buffer 
 
 ## July 27th
-Ran gel of DHFR and SEVA24 PCR to ensure correct length 
+Made and ran gel of DHFR(2% gel) and SEVA24( 0.8% gel) PCR to ensure correct length 
 
 SEVA224 (~4000 bp shown next to 1 kb ladder) :
 
