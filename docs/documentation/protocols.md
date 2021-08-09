@@ -14,7 +14,7 @@
 [Restriction/Nicking Digest Protcol](https://github.com/idec2021/UOregon/blob/31618175d35dc6a5044b34e9a9e776005334f89a/docs/documentation/RestrictionDigest.md)
 
 ## Ligation 
-[T4/T7 Ligation Protocol](https://github.com/idec2021/UOregon/blob/cba68396a3cf68d01d45c05555acc4a90ea8f840/docs/documentation/T4_T7Ligation.md)
+[T4/T7 Ligation Protocol](https://github.com/idec2021/UOregon/blob/97139f70c7e54027fd061a288c07573dc5f15498/docs/documentation/T4_T7Ligation.md)
 
 ## Inoculation
 [Inoculating an Overnight Culture Protocol ](https://github.com/idec2021/UOregon/blob/main/docs/documentation/Inoculating%20an%20Overnight%20Culture%20Protocol)
