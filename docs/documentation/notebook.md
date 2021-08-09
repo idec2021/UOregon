@@ -32,7 +32,7 @@ Let shake in 37°C for 12-16 hours overnight
  Miniprep overnight culture
  Elute: 30 uL
  | Colony  | Qubit Concentration |
-| ----| ---- |
+| ---- | ---- |
 | 13 | 53.4 ng/uL |
 | 17 | 65.6 ng/uL|
 
