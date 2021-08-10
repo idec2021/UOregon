@@ -2,7 +2,7 @@
 
 ### From Monarch Plasmid Miniprep Kit Protocol
 1. Start with an overnight culture from the night before 
-2. aliquot out into two 5 mL tubes or 1 mL per Epi Tube 
+2. Aliquot out into two 5 mL tubes or 1 mL per Epi Tube 
 3. Spin down at 3,000 g for 4 minutes
 4. Discard supernatant 
 5. Resuspend pellet in 200 uL Plasmid Resuspension Buffer , pipette up and down to ensure no clumps of cells 
