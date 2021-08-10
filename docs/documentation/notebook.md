@@ -285,9 +285,20 @@ PCR amplify P1 and pGS21a_Phi29 backbone
 
 Cleanup elute: 20uL 
 
-| P1 | pGS21a_Phi29 |
+| P1 | pGS21a_Phi29 (Remix) |
 | ---- | ---- |
 |  ng/uL | ng/uL |
+
+Run a gel to confirm lengths before digesting 
+
+P1 : 2% gel
+Remix : 0.8% gel 
+
+P1 gel (~300 bp ): 
+
+<img width="271" alt="Screen Shot 2021-08-10 at 12 01 11 PM" src="https://user-images.githubusercontent.com/77999251/128919550-e14a941f-71e8-4024-9c51-e72ab140584b.png">
+
+Remix gel ( ~ 9370 bp) : 
 
 
 
