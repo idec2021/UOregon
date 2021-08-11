@@ -287,18 +287,53 @@ Cleanup elute: 20uL
 
 | P1 | pGS21a_Phi29 (Remix) |
 | ---- | ---- |
-|  ng/uL | ng/uL |
+| 101.45 ng/uL | 102.35 ng/uL |
 
 Run a gel to confirm lengths before digesting 
 
-P1 : 2% gel
-Remix : 0.8% gel 
+P1 : 2% gel, 100 bp ladder 
+Remix : 0.8% gel, 1 kb ladder 
 
 P1 gel (~300 bp ): 
 
 <img width="271" alt="Screen Shot 2021-08-10 at 12 01 11 PM" src="https://user-images.githubusercontent.com/77999251/128919550-e14a941f-71e8-4024-9c51-e72ab140584b.png">
 
 Remix gel ( ~ 9370 bp) : 
+
+<img width="259" alt="Screen Shot 2021-08-11 at 10 26 01 AM" src="https://user-images.githubusercontent.com/77999251/129075188-112be313-f721-487b-9a4f-50df5ca6aa7e.png">
+
+- Primer dimerization shown at the bottom of the gel
+
+## August 10th
+Make Overnight Culture of T7+remix cells for induction/ transformation 
+
+## August 11th
+OD600 of Overnight Culture : 3.17
+
+Make Plates with 500 mL LB+Agar: 
+
+| 0 mM IPTG | 0.1 mM IPTG | 1 mM IPTG |
+| ---- | ---- | ---- |
+| 500 uL Carb| 500 uL Carb | 500 uL Carb |
+| 0 uL IPTG | 500 uL IPTG | 5 mL IPTG |
+| 5 mL Tri | 5 mL Tri | 5 mL Tri |
+
+3 Induction Flasks:
+
+| 0 mM IPTG | 0.1 mM IPTG | 1 mM IPTG |
+| ---- | ---- | ---- |
+| 50 mL LB | 50 mL LB | 50 mL LB |
+| 0 uL IPTG | 50 uL IPTG | 500 uL IPTG |
+| 789 uL cells | 789 uL Cells | 789 uL Cells |
+
+Start : 0.05 OD600
+
+End : 0.7 OD600
+
+Make Induced Cells Electrocompetent 
+
+
+
 
 
 
