@@ -332,7 +332,25 @@ End : 0.7 OD600
 
 Make Induced Cells Electrocompetent 
 
+- 45 mL cells per tube (x uL H20 by 9)
 
+- Aliquot into 9 tubes
+
+| 0 mM IPTG | 0.1 mM IPTG | 1 mM IPTG |
+| ---- | ---- | ---- |
+| no pL | no pL |  no pL |
+| pL | pL | pL |
+| thiolated pL| thiolated pL | thiolated pL |
+
+- Put 3 tubes in -80 to run protein gel on in the future 
+
+Transform with :
+
+pL conc. : 85.6 ng/uL -> 0.4 uL 
+
+Thio pL conc. : 68.8 ng/uL -> 0.58 uL
+
+Plated 100 uL on each conc. 
 
 
 
