@@ -9,6 +9,9 @@ Cleanup Assembly:
 | ------------- |
 |  look in Noras notebook ng/uL |
 
+<img width="583" alt="Screen Shot 2021-08-12 at 1 05 32 PM" src="https://user-images.githubusercontent.com/77999251/129262349-e832464b-ccc1-4545-b0d6-e533f3673450.png">
+
+
 Make Agar+LB plates with Carbenicillin 
 
 ## July 2nd
