@@ -357,7 +357,7 @@ Plated 100 uL on each conc.
 
 Run gel on thiolated and non-thiolated pL to ensure ligated correctly 
 
-ran 300 ng DNA 
+ran 300 ng DNA
 
 | Ladder| Non-Thio pL | Thio pL |
 | ---- | ---- | ---- |
@@ -366,7 +366,9 @@ ran 300 ng DNA
 | 8 uL H2O  | 5.5 uL H2O | 4.6 uL H2O |
 
 
+1% gel , 125 V, 30 min. : 
 
+<img width="328" alt="Screen Shot 2021-08-12 at 12 56 43 PM" src="https://user-images.githubusercontent.com/77999251/129261246-4e677bee-64b6-4b8c-b8f0-4695e3d7f0ff.png">
 
 
 
