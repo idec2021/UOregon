@@ -338,9 +338,9 @@ Make Induced Cells Electrocompetent
 
 | 0 mM IPTG | 0.1 mM IPTG | 1 mM IPTG |
 | ---- | ---- | ---- |
-| no pL | no pL |  no pL |
+| no pL | no pL | no pL |
 | pL | pL | pL |
-| thiolated pL| thiolated pL | thiolated pL |
+| thiolated pL | thiolated pL | thiolated pL |
 
 - Put 3 tubes in -80 to run protein gel on in the future 
 
@@ -351,6 +351,20 @@ pL conc. : 85.6 ng/uL -> 0.4 uL
 Thio pL conc. : 68.8 ng/uL -> 0.58 uL
 
 Plated 100 uL on each conc. 
+
+## August 12th
+- No growth on any plate 
+
+Run gel on thiolated and non-thiolated pL to ensure ligated correctly 
+
+ran 300 ng DNA 
+
+| Ladder| Non-Thio pL | Thio pL |
+| ---- | ---- | ---- |
+| 3 uL dye | 3 uL dye | 3 uL dye |
+| 1 uL 100 bp | 3.5 uL DNA | 4.4 uL DNA |
+| 8 uL H2O  | 5.5 uL H2O | 4.6 uL H2O |
+
 
 
 
