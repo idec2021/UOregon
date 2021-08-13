@@ -9,7 +9,8 @@ Cleanup Assembly:
 | ------------- |
 |  look in Noras notebook ng/uL |
 
-<img width="583" alt="Screen Shot 2021-08-12 at 1 05 32 PM" src="https://user-images.githubusercontent.com/77999251/129262349-e832464b-ccc1-4545-b0d6-e533f3673450.png">
+<img width="728" alt="Screen Shot 2021-08-13 at 11 42 08 AM" src="https://user-images.githubusercontent.com/77999251/129404633-e141d951-4862-43b5-ae88-54e319567eb0.png">
+
 
 
 Make Agar+LB plates with Carbenicillin 
@@ -374,6 +375,21 @@ ran 300 ng DNA
 <img width="328" alt="Screen Shot 2021-08-12 at 12 56 43 PM" src="https://user-images.githubusercontent.com/77999251/129261246-4e677bee-64b6-4b8c-b8f0-4695e3d7f0ff.png">
 
 Correct length = 776 bp
+
+## August 13th 
+
+- To prevent primer self dimerization use smaller concentration : 100 nmole
+
+
+| Q5| H2O | DNA | FWD Primer | REV Primer |
+| ---- | ---- | ---- |
+| 25 uL | 23.5 uL | 0.5 uL | 0.5 uL | 0.5 uL |
+
+0.8% gel 130 V 35 min. :
+
+
+
+
 
 
 
