@@ -387,6 +387,10 @@ Correct length = 776 bp
 
 0.8% gel 130 V 35 min. :
 
+<img width="278" alt="Screen Shot 2021-08-13 at 2 25 15 PM" src="https://user-images.githubusercontent.com/77999251/129430902-47af6295-1edc-4761-95be-172e2819615c.png">
+
+- Still primer dimers 
+
 
 
 
