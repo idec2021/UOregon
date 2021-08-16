@@ -391,6 +391,11 @@ Correct length = 776 bp
 
 - Still primer dimers 
 
+## August 16th 
+Run protein gel on induced/ electrocompetent cells in -80 
+- use T7 cells as neg. control 
+- run on any kD gel and 7.5% gel to see DNAP 
+
 
 
 
