@@ -1,8 +1,9 @@
 # Our Team
 
 ## Principal Investigator
+### <span style="color:blue">some *blue* Calin</span>
 <img src="https://user-images.githubusercontent.com/59736592/129622592-6cb1ecbd-e1d9-4a34-85ec-0f04a840d360.jpg" alt="Calin_headshot" width="200"/>
-Calin is an Assistant Professor at the Knight Campus for Accelerating Scientific Impact. His research interests include biochemistry, synthetic biology, protein engineering, and microbiology. Work in the Plesa lab focuses specifically on large-scale gene synthesis and high-throughput methods to characterize sequence-function relationsihps.
+Calin Plesa is an Assistant Professor at the Knight Campus for Accelerating Scientific Impact. His research interests include biochemistry, synthetic biology, protein engineering, and microbiology. Work in the Plesa lab focuses specifically on large-scale gene synthesis and high-throughput methods to characterize sequence-function relationsihps.
 
 ## Team Lead
 <img width="200" alt="Nora_headshot" src="https://user-images.githubusercontent.com/59736592/128743453-f2cc5542-29c5-43c2-8666-73b0c6041c70.png">
