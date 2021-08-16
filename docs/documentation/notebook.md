@@ -393,8 +393,26 @@ Correct length = 776 bp
 
 ## August 16th 
 Run protein gel on induced/ electrocompetent cells in -80 
+
 - use T7 cells as neg. control 
-- run on any kD gel and 7.5% gel to see DNAP 
+- run on any kD gel and 7.5% gel to see DNAP
+
+| T7| 0 mM IPTG | 0.1 mM IPTG | 1.0 mM IPTG | 
+| ---- | ---- | ---- |
+| 4.67 mg/mL | 56.6 mg/mL | 39.97 mg/mL | 31.15 mg/mL |
+
+- dilute down to 5 mg/mL with Bugbuster 
+- added Laemli+BME to denature proteins 
+- ran 50 ug of each sample ( 10 uL)
+
+200 V 50mA 
+
+initial voltage : 100V 
+
+rinse gel with DI H2O
+
+stain overnight in colloidal coomassie stain 
+
 
 
 
