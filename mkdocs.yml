@@ -6,8 +6,8 @@ theme:
   favicon: img/idec-wiki-logo.png
 
   palette:
-    primary: purple amethyst
-    accent: light slate blue
+    primary: purple
+    accent: blue
 
   features:
     - navigation.sections
