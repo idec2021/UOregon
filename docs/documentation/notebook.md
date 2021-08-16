@@ -1,4 +1,4 @@
-# Lab notebooks
+# Lab notebook
 ## July 1st
 Golden Gate Assembly (set link to GGA protocol file) of Phi29 Terminal protein (TP) ,Single stranded binding protein (SSBP) and Double Stranded binding protein (DSBP)+pGS21a backbone with Phi29 DNA Polymerase(DNAP) 
 
@@ -9,8 +9,9 @@ Cleanup Assembly:
 | ------------- |
 |  look in Noras notebook ng/uL |
 
-<img width="728" alt="Screen Shot 2021-08-13 at 11 42 08 AM" src="https://user-images.githubusercontent.com/77999251/129404633-e141d951-4862-43b5-ae88-54e319567eb0.png">
 
+<img width="1015" alt="Screen Shot 2021-08-16 at 12 47 51 PM" src="https://user-images.githubusercontent.com/77999251/129621863-d96559a3-4766-4af4-8f37-d360f1bc488b.png">
+|
 
 
 Make Agar+LB plates with Carbenicillin 
