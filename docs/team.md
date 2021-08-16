@@ -7,7 +7,7 @@ Calin Plesa is an Assistant Professor at the Knight Campus for Accelerating Scie
 
 ## Team Lead
 ### <span style="color:blue"> Nora Kearns </span>
-<img width="200" alt="Nora_headshot" src="https://user-images.githubusercontent.com/59736592/128743453-f2cc5542-29c5-43c2-8666-73b0c6041c70.png">
+<img src="https://user-images.githubusercontent.com/59736592/128743453-f2cc5542-29c5-43c2-8666-73b0c6041c70.png" alt="Nora_headshot" width="200"/>
 Nora joined the Plesa Lab as an undergraduate in 2019, and since then has worked on a variety of projects, both experimental and computational. She is is now an MSc student in the Bioinformatics and Genomics Master's Program, and her research interests include in synthetic biology, bioinformatics, and DNA nanotechnology. Nora started the UOregon iDEC team with Dr. Plesa because she is excited about leveraging directed evolution as a strategy to engineer complex proteins.
 
 ## Team Player
