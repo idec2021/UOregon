@@ -12,7 +12,7 @@ Nora joined the Plesa Lab as an undergraduate in 2019, and since then has worked
 
 ## Team Player
 ### <span style="color:blue"> Amanda Kreppel </span>
-![IMG_2949](https://user-images.githubusercontent.com/59736592/129622674-0bf51e21-569e-4ab1-8bf7-c464a9464055.jpg)
+<img src="https://user-images.githubusercontent.com/59736592/129622674-0bf51e21-569e-4ab1-8bf7-c464a9464055.jpg" alt="Amanda_headshot" width="200"/>
 Amanda is an undergraduate researcher in the Plesa lab.
 
 
