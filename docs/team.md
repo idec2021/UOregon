@@ -1,4 +1,5 @@
 # Our Team
+<img width="647" alt="Team_Photo" src="https://user-images.githubusercontent.com/59736592/129625573-1f67b5c8-0707-4453-a800-75739c2902a3.png">
 
 ## Principal Investigator
 ### <span style="color:blue"> Calin Plesa </span>
