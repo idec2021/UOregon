@@ -412,7 +412,47 @@ initial voltage : 100V
 
 rinse gel with DI H2O
 
-stain overnight in colloidal coomassie stain 
+stain overnight in colloidal coomassie stain
+
+## August 17th 
+Gel stained for 20 hours, broke in container and some slipped into aqueous waste
+
+Rerun the any kD gel 
+
+| Protein | Expected Size (kDa) |  
+| ----| ---- |
+| DNA Polymerase | 95 kDa | 
+| Terminal Protein | 31 kDa| 
+| Single Stranded Binding Protein | 13.3 kDa | 
+| Double Stranded Binding Protein | 12 kDa | 
+
+Imaged both gels : 
+
+7.5% :
+
+Ladder: 
+
+<img width="68" alt="Screen Shot 2021-08-17 at 1 13 29 PM" src="https://user-images.githubusercontent.com/77999251/129794227-903aba45-9f42-4758-b0dd-c5fdacc2ffa9.png">
+
+
+<img width="363" alt="Screen Shot 2021-08-17 at 1 07 31 PM" src="https://user-images.githubusercontent.com/77999251/129794097-6fbe8c83-9351-4f02-8450-18b552459d40.png">
+
+any kD : 
+
+Ladder : 
+
+<img width="49" alt="Screen Shot 2021-08-17 at 1 27 47 PM" src="https://user-images.githubusercontent.com/77999251/129795866-df6a04d1-ea0a-4f9d-8b34-a46f19d213ff.png">
+
+<img width="446" alt="Screen Shot 2021-08-17 at 1 07 38 PM" src="https://user-images.githubusercontent.com/77999251/129795819-753f6960-ff5e-4144-8170-9a7f46a6811d.png">
+
+- diluted original samples again with bugbuster 
+- ran new any kD and 7.5% gel 
+- 50 ug of each sample  ( 10 uL of each sample ) 
+
+
+
+
+
 
 
 
