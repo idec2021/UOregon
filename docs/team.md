@@ -1,4 +1,4 @@
-# Team UOregon
+# <b>Team UOregon<b>
 Team UOregon is based out of the Plesa lab at the Univeristy of Oregon's Knight Campus for Accelerating Scientific Impact. Our group focuses on developing high-throughput technologies to characterize sequence space, and we are interested in leveraging directed evolution as a strategy to explore natural adaptation and engineer proteins.
 
 <img width="647" alt="Team_Photo" src="https://user-images.githubusercontent.com/59736592/129625573-1f67b5c8-0707-4453-a800-75739c2902a3.png">
