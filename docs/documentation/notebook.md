@@ -448,6 +448,7 @@ Ladder :
 - diluted original samples again with bugbuster 
 - ran new any kD and 7.5% gel 
 - 50 ug of each sample  ( 10 uL of each sample ) 
+- stained overnight with Coomassie Colloidal Stain for 18 hours 
 
 
 
