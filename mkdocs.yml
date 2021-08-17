@@ -43,6 +43,8 @@ nav:
   - Team: team.md
   - Project:
       - Background: project/background.md
+      - Motivation: project/motivation.md
+      - Scalable DE: project/ScalableDE.md
       - Results: project/results.md
   - Documentation:
       - Protocols: documentation/protocols.md
