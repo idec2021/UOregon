@@ -17,7 +17,7 @@ Nora joined the Plesa Lab as an undergraduate in 2019, and since then has worked
 ### <span style="color:purple"> Amanda Kreppel </span>
 <img src="https://user-images.githubusercontent.com/59736592/129622674-0bf51e21-569e-4ab1-8bf7-c464a9464055.jpg" alt="Amanda_headshot" width="200"/>
 
-Amanda joined the Plesa Lab January of 2021 as an undergraduate having little knowledge in Synthetic Biology. Learning new hands on protocols and utilizing E. coli for recombinant gene expression has deeply increased her passion for science. Her research interests also include microbiology and she plans on taking a gap year after she graduates in 2022 before pursuing a masters in biotechnology. Amandas interest in the University of Oregons’ novel approach to directed evolution drew her to joining the iDEC team.
+Amanda joined the Plesa Lab January of 2021 as an undergraduate having little knowledge in Synthetic Biology. Learning new hands on protocols and utilizing E. coli for recombinant gene expression has deeply increased her passion for science. Her research interests also include microbiology and she plans on taking a gap year after she graduates in 2022 before pursuing a masters in biotechnology. Amandas interest in the Plesa lab’s novel approach to directed evolution drew her to joining the iDEC team.
 
 
 
