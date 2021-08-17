@@ -4,7 +4,7 @@ Team UOregon is based out of the Plesa lab at the Univeristy of Oregon's Knight 
 <img width="647" alt="Team_Photo" src="https://user-images.githubusercontent.com/59736592/129625573-1f67b5c8-0707-4453-a800-75739c2902a3.png">
 
 ## Principal Investigator
-### <span style="color:turquoise"> Calin Plesa </span>
+### <p style="color:turquoise">Calin Plesa</p>
 <img src="https://user-images.githubusercontent.com/59736592/129622592-6cb1ecbd-e1d9-4a34-85ec-0f04a840d360.jpg" alt="Calin_headshot" width="200"/>
 
 Calin Plesa is an Assistant Professor at the University of Oregon's Knight Campus. His research interests include biochemistry, synthetic biology, molecular biology, microbiology, structural biology, genetics, bioinformatics, and quantitative biology. Work in the Plesa lab focuses specifically on large-scale gene synthesis and high-throughput methods to characterize and engineer biological protein-based systems
