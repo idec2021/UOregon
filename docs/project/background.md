@@ -1,3 +1,4 @@
+![GraphicalAbstract](https://user-images.githubusercontent.com/59736592/131526537-c09be7cb-31ca-45fa-98b4-e056602ede60.png)
 # <span style="color:royalblue"> **DiversiPhi29: an orthogonal replication system for the continuous directed evolution of genes in vivo** </span>
 ## <span style="color:royalblue"> **Motivation** </span>
 Biological protein-based systems have diverse applications, from targeted drug delivery to sustainable textile manufacturing. A significant barrier to using proteins in medicine and industry is that proteins have evolved to function best in a living cell from their native organism, and frequently lose function in a different context. This necessitates innovative techniques to modify and optimize natural proteins for novel functions and conditions. 
