@@ -17,7 +17,8 @@ Orthogonal replication applied to directed evolution provide the advantages of c
 ## <span style="color:royalblue"> **Bacteriophage Phi29** </span>
 The initiation of DNA synthesis conventionally relies on priming by a short sequence of DNA or RNA, which provides a 3’ hydroxyl group for DNA Polymerase to extend from. In several phages, a terminal protein serves as a primer for genomic replication (28). Bacteriophage Phi29, a virus which infects *Bacillus subtilis*, represents the most extensively studied example of terminal protein-primed replication. Critical to this mechanism are the Phi29 Origins of Replication (ORIs) which flank the genome and allow cooperative binding of the Phi29 DNA Polymerase and Terminal Protein. 
 
-DiversiPhi29 repurposes the transcriptional machinery of bacteriophage Phi29 for directed evolution, using *E. coli* as a cellular chassis. Our protein-primed replication mechanism differs from the mechanism used by the *E. coli* DNA polymerase to replicate the *E. coli* genome, which enables isolation of an error-prone Phi29 DNA Polymerase (DNAP) from the host genome. The Phi29 DNAP interacts with a priming terminal protein (TP) linked at both ends of a linear GOI to initiate replication, while the *E. coli* DNAP interacts with an RNA primer. 
+DiversiPhi29 repurposes the transcriptional machinery of bacteriophage Phi29 for directed evolution, using *E. coli* as a cellular chassis. Our protein-primed replication mechanism differs from the mechanism used by the *E. coli* DNA polymerase to replicate the *E. coli* genome, which enables isolation of an error-prone Phi29 DNA Polymerase (DNAP) from the host genome. The Phi29 DNAP interacts with a priming terminal protein (TP) linked at both ends of a linear GOI to initiate replication, while the *E. coli* DNAP interacts with an RNA primer.![GraphicalAbstract](https://user-images.githubusercontent.com/59736592/131523117-b92825ec-7e8e-4a41-82ed-4bebf1a8e302.png)
+ 
 
 
 
