@@ -12,7 +12,8 @@ Continuous methods for directed evolution circumvent many of these limitations, 
 
 ## <span style="color:royalblue"> **Orthogonal Replication for Directed Evolution** </span>
 Orthogonal replication architectures are those in which replication of a gene of interest and host genomic replication occur by separate machinery and mechanism.
-Orthogonal replication applied to directed evolution provide the advantages of continuous *in vivo* mutagenesis while maintaining stability of the host genome. Previously established systems have relied on an error-prone DNA polymerase which interacts specifically with an engineered DNA construct, and cannot interact with host genomic DNA (4). This allows high mutation rates on a gene of interest without damaging the host. The primary advantage of such a system is its ability to sustain long experimental durations, allowing a gene to evolve over hundreds of generations.!<img scr = https://user-images.githubusercontent.com/59736592/131525453-d0c9dc6d-00f4-43da-94c4-016e61ae09f0.png alt = "GraphicsAbstract" width = 400>
+Orthogonal replication applied to directed evolution provide the advantages of continuous *in vivo* mutagenesis while maintaining stability of the host genome. Previously established systems have relied on an error-prone DNA polymerase which interacts specifically with an engineered DNA construct, and cannot interact with host genomic DNA (4). This allows high mutation rates on a gene of interest without damaging the host. The primary advantage of such a system is its ability to sustain long experimental durations, allowing a gene to evolve over hundreds of generations.
+<img src="https://user-images.githubusercontent.com/59736592/131525453-d0c9dc6d-00f4-43da-94c4-016e61ae09f0.png" alt = "GraphicalAbstract" width = "400">
 
 
 ## <span style="color:royalblue"> **Bacteriophage Phi29** </span>
