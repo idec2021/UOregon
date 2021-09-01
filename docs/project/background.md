@@ -11,7 +11,7 @@ This process is time-consuming and labor intensive, necessitating multiple trans
 ## <span style="color:royalblue"> **Continuous Directed Evolution** </span>
 Continuous methods for directed evolution circumvent many of these limitations, allowing multiple cycles of mutation to take place entirely *in vivo* without manual interference. Mutagenesis in continuous evolution relies on an increase in the mutational rate of the host cells above typical genomic error rates. This can be done through chemical mutagenesis, with alkylating agents, UV irradiation, or base analogues (2). More recently, mutational frequency has been increased by deactivating host proofreading enzymes1 or mutating the host DNA Polymerase to reduce copying fidelity (3). However, both of these methods generate unwanted mutations in the host genome. Over time, mutations accumulate in essential genes and kill the host, limiting the number of evolutionary generations possible. Such short experimental durations prevent access to certain adaptations of interest that require long mutational paths.
 
-<img src="https://user-images.githubusercontent.com/59736592/131709454-e59d5383-8c9c-4552-b9df-8e40fe273717.png" alt = "DirectedEvolutionComparison" width = "600">
+<img src="https://user-images.githubusercontent.com/59736592/131709454-e59d5383-8c9c-4552-b9df-8e40fe273717.png" alt = "DirectedEvolutionComparison" width = "900">
 
 ## <span style="color:royalblue"> **Orthogonal Replication for Directed Evolution** </span>
 Orthogonal replication architectures are those in which replication of a gene of interest and host genomic replication occur by separate machinery and mechanism.
