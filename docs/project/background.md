@@ -3,6 +3,8 @@
 ## <span style="color:royalblue"> **Motivation** </span>
 Biological protein-based systems have diverse applications, from targeted drug delivery to sustainable textile manufacturing. A significant barrier to using proteins in medicine and industry is that proteins have evolved to function best in a living cell from their native organism, and frequently lose function in a different context. This necessitates innovative techniques to modify and optimize natural proteins for novel functions and conditions. 
 
+Protein engineering involves mutating a protein's encoding DNA and observing the functional outcomes. However, the relationships between sequence and function are often unpredictable, and the mutational space for a given protein is virtually limitless. DiversiPhi29 is an approach to protein engineering which optimizes the scale and speed at which sequence space can be explored by limiting the necessity for manual mutation.
+
 ## <span style="color:royalblue"> **Directed Evolution** </span>
 Directed evolution allows scientists to guide and accelerate the mutational path of a sequence, in a random or targeted manner, towards a certain functional or phenotypic ideal. Current approaches to directed evolution consist of rounds of mutation *in vitro* to develop a library of differentially mutated genes, followed by expression of the mutant library *in vivo* to assess phenotypic outcomes. Variants are screened for a select function, and the most suitable variants undergo further rounds of mutation, expression, and screening until a suitable phenotype is achieved.
 
