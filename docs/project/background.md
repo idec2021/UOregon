@@ -19,7 +19,6 @@ Orthogonal replication applied to directed evolution provide the advantages of c
 
 <img src="https://user-images.githubusercontent.com/59736592/131526537-c09be7cb-31ca-45fa-98b4-e056602ede60.png" alt = "GraphicalAbstract" width = "600">
 
-
 ## <span style="color:royalblue"> **Bacteriophage Phi29** </span>
 The initiation of DNA synthesis conventionally relies on priming by a short sequence of DNA or RNA, which provides a 3’ hydroxyl group for DNA Polymerase to extend from. In several phages, a terminal protein serves as a primer for genomic replication (28). Bacteriophage Phi29, a virus which infects *Bacillus subtilis*, represents the most extensively studied example of terminal protein-primed replication. Critical to this mechanism are the Phi29 Origins of Replication (ORIs) which flank the genome and allow cooperative binding of the Phi29 DNA Polymerase and Terminal Protein. 
 
