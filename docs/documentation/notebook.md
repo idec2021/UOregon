@@ -508,7 +508,7 @@ BsaI digest:
 - cut all of mp 1 
 
  | Cutsmart | BsaI-Hfv2 | H2O | DNA |
-| ---- | ---- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- | 
 | 5 uL | 0.4 uL | 11.6 uL | 33 uL (400 ng) |
 
 incubate 37C for 1 hour, heat inactivate enzymes 80C for 20 min
@@ -547,9 +547,9 @@ BsaI cut Remix PCR 1.35M Betaine : 40.5 ng/uL
 ## August 24th 
 How gel was oriented: 
 
-| Ladder | PD remix PCR | BsaI cut Betaine remix PCR | BsaI cut PD remix PCR |
-| ---- | ---- | ---- |
-| --- | 200 ng | 200 ng | 200 ng | 
+| PD remix PCR | BsaI cut Betaine remix PCR | BsaI cut PD remix PCR |
+| ---- | ---- | ---- | 
+| 200 ng | 200 ng | 200 ng | 
 
 <img width="239" alt="Screen Shot 2021-09-03 at 12 21 49 PM" src="https://user-images.githubusercontent.com/77999251/132056324-caf12f8f-0697-4f63-adf3-c3bde57570ac.png">
 
