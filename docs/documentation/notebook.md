@@ -10,8 +10,8 @@ Cleanup Assembly:
 |  look in Noras notebook ng/uL |
 
 
-<img width="1015" alt="Screen Shot 2021-08-16 at 12 47 51 PM" src="https://user-images.githubusercontent.com/77999251/129621863-d96559a3-4766-4af4-8f37-d360f1bc488b.png">
-|
+<img width="1019" alt="Screen Shot 2021-09-03 at 12 28 51 PM" src="https://user-images.githubusercontent.com/77999251/132057033-7c0e9d41-dbae-48c6-b8c0-fca727063a61.png">
+
 
 
 Make Agar+LB plates with Carbenicillin 
