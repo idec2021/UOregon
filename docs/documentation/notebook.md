@@ -382,7 +382,7 @@ Correct length = 776 bp
 - To prevent primer self dimerization use smaller concentration : 100 nmole
 
 
-| Q5| H2O | DNA | FWD Primer | REV Primer |
+| Q5 | H2O | DNA | FWD Primer | REV Primer |
 | ---- | ---- | ---- |
 | 25 uL | 23.5 uL | 0.5 uL | 0.5 uL | 0.5 uL |
 
@@ -449,6 +449,113 @@ Ladder :
 - ran new any kD and 7.5% gel 
 - 50 ug of each sample  ( 10 uL of each sample ) 
 - stained overnight with Coomassie Colloidal Stain for 18 hours 
+
+## August 18th 
+- Try to use Betaine to remove primer dimer secondary structures from pGS21a_Remix_Backbone PCR reaction for adding P1
+
+1M Betaine : 
+
+| Q5 | H2O | DNA | FWD Primer | REV Primer | Betaine |
+| ---- | ---- | ---- |
+| 25 uL | 11.5 uL | 0.5 uL | 1.5 uL | 1.5 uL | 10 uL |
+
+
+1.35M Betaine :
+
+| Q5 | H2O | DNA | FWD Primer | REV Primer | Betaine |
+| ---- | ---- | ---- |
+| 25 uL | 8 uL | 0.5 uL | 1.5 uL | 1.5 uL | 13.5 uL |
+
+1.7M Betaine : 
+
+ | Q5 | H2O | DNA | FWD Primer | REV Primer | Betaine |
+| ---- | ---- | ---- |
+| 25 uL | 4.5 uL | 0.5 uL | 1.5 uL | 1.5 uL | 17 uL |
+
+Cleanup Elute 20 uL 
+
+Concentrations : 
+
+| 1M | 1.35 M | 1.7 M|
+| ---- | ---- | ---- |
+| 55.5 ng/uL | 34.1 ng/uL | 15.7 ng/uL |
+
+
+0.8% gel, 140V,  30 min. 
+
+300 ng of each, 6 ng of miniprep product 
+
+<img width="256" alt="Screen Shot 2021-09-03 at 12 03 52 PM" src="https://user-images.githubusercontent.com/77999251/132054769-87d98497-aab7-4e43-b9fe-99ee8ad86cf4.png">
+
+Make overnight culture of T7+remix 
+-10 mL LB
+-10uL Carb
+- scrape colony 
+
+## August 19th 
+- Try using 1,2 propane-diol to get rid of dimers 
+- Try linearizing DNA (BsaI digest)
+
+Miniprep T7+Remix overnight culture 
+
+Elute 35 uL 
+
+Conc. 1 : 11.95 ng/uL
+
+Conc. 2 : 9.45 ng/uL 
+
+BsaI digest: 
+- cut all of mp 1 
+
+| Cutsmart | BsaI-Hfv2 | H2O | DNA |
+| ---- | ---- | ---- |
+| 5 uL | 0.4 uL | 11.6 uL | 33 uL (400 ng) |
+
+incubate 37C for 1 hour, heat inactivate enzymes 80C for 20 min
+
+Cleanup elute 20 uL 
+
+Conc. 11.5 ng/uL 
+
+Remix PCR 1,2 Propane-diol ( not linearized ) :
+
+| Q5 | H2O | DNA | FWD Primer | REV Primer | 1,2 Propane-diol|
+| ---- | ---- | ---- |
+| 25 uL | 18.5 uL | 0.5 uL | 1.5 uL | 1.5 uL | 3 uL |
+
+BsaI cut Remix PCR 1,2 Propane-diol :
+
+| Q5 | H2O | DNA | FWD Primer | REV Primer | 1,2 Propane-diol|
+| ---- | ---- | ---- |
+| 25 uL | 18.5 uL | 0.5 uL | 1.5 uL | 1.5 uL | 3 uL |
+
+BsaI cut Remix PCR 1.35M Betaine :
+
+| Q5 | H2O | DNA | FWD Primer | REV Primer | Betaine |
+| ---- | ---- | ---- |
+| 25 uL | 8 uL | 0.5 uL | 1.5 uL | 1.5 uL | 13.5 uL |
+
+## August 20th 
+Concentrations : 
+
+Remix PCR 1,2 Propane-diol ( not linearized ): 57.9 ng/uL
+
+BsaI cut Remix PCR 1,2 Propane-diol : 84.6 ng/uL
+
+BsaI cut Remix PCR 1.35M Betaine : 40.5 ng/uL
+
+## August 24th 
+How gel was oriented: 
+
+| Ladder | PD remix PCR | BsaI cut Betaine remix PCR | BsaI cut PD remix PCR |
+| ---- | ---- | ---- |
+| --- | 200 ng | 200 ng | 200 ng | 
+
+<img width="239" alt="Screen Shot 2021-09-03 at 12 21 49 PM" src="https://user-images.githubusercontent.com/77999251/132056324-caf12f8f-0697-4f63-adf3-c3bde57570ac.png">
+
+## August 25th
+- Make new assembly on Benchling where P1 is inserted after TP stop codon before DSBP RBS
+- Make another new assembly on Benchling where P1 is inserted after DSBP stop codon before SSBP RBS 
 
 
 
