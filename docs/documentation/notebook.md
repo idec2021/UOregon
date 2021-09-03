@@ -635,6 +635,19 @@ pL : 55.75 ng/uL
 
 Thio-pL : 47.1 ng/uL 
 
+## September 3rd 
+- Amplify pGS21a_Remix backbone for p1 using 2 different sets of new primers ( one after DSBP stop codon the other after TP stop codon) but with same overhang as original assembly 
+- Add Betaine to ensure no primer dimers
+
+| Q5 | H2O | DNA | FWD Primer | REV Primer | Betaine |
+| ---- | ---- | ---- | ---- | ---- | ---- | 
+| 25 uL | 8 uL | 0.5 uL | 1.5 uL | 1.5 uL | 13.5 uL |
+
+Cleanup Elute 20 uL 
+
+Concentration after TP :  ng/uL
+
+Concentration after DSBP : ng/uL
 
 
 
