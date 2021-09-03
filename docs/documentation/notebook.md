@@ -556,6 +556,14 @@ How gel was oriented:
 ## August 25th
 - Make new assembly on Benchling where P1 is inserted after TP stop codon before DSBP RBS
 - Make another new assembly on Benchling where P1 is inserted after DSBP stop codon before SSBP RBS 
+- Make new assembly on benchling for PCR mutagenesis of entire insert 
+- Make new assembly on benchling for PCR mutagenesis of TP+DNAP
+- Make new assembly on benchling for PCR mutagenesis of TP
+
+- Order all primers 
+
+## September 1st 
+Make more non-Thio and Thio pL 
 
 
 
