@@ -507,8 +507,8 @@ Conc. 2 : 9.45 ng/uL
 BsaI digest: 
 - cut all of mp 1 
 
-| Cutsmart | BsaI-Hfv2 | H2O | DNA |
-| ---- | ---- | ---- |
+ | Cutsmart | BsaI-Hfv2 | H2O | DNA |
+| ---- | ---- | ---- | ---- | ---- |
 | 5 uL | 0.4 uL | 11.6 uL | 33 uL (400 ng) |
 
 incubate 37C for 1 hour, heat inactivate enzymes 80C for 20 min
