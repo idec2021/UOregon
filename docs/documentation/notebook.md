@@ -565,13 +565,75 @@ How gel was oriented:
 ## September 1st 
 Make more non-Thio and Thio pL 
 
+Cleanup Elute 20 uL
 
+Conc. : 
 
+| OriL | Middle | OriR |
+| ---- | ---- | ---- | 
+| 120.45 ng/uL | 111.5 ng/uL | 138.9 ng/uL | 
 
+| Thio-OriL | Middle | Thio-OriR |
+| ---- | ---- | ---- | 
+| 96.2 ng/uL | 124.05 ng/uL | 109.6 ng/uL | 
 
+## September 2nd 
 
+BspQI digest w/ 19 uL DNA
 
+| OriL | Middle | OriR |
+| ---- | ---- | ---- | 
+| 19 uL DNA | 19 uL DNA | 19 uL DNA| 
+| 5 uL NEB 3.1 Buffer| 5 uL NEB 3.1 Buffer| 5 uL NEB 3.1 Buffer|
+| 2.2 uL BspQI | 2.1 uL BspQI | 2.6 uL BspQI |
+| 23.8 uL H2O | 23.9 uL H2O | 23.4 uL H2O |
 
+| Thio-OriL | Middle | Thio-OriR |
+| ---- | ---- | ---- | 
+| 19 uL DNA | 19 uL DNA | 19 uL DNA| 
+| 5 uL NEB 3.1 Buffer| 5 uL NEB 3.1 Buffer| 5 uL NEB 3.1 Buffer|
+| 1.8 uL BspQI | 2.3 uL BspQI | 2 uL BspQI |
+| 24.2 uL H2O | 23.7 uL H2O | 24 uL H2O |
+
+Total: 50 uL
+
+Incubate 50C for 1 hour 
+
+Cleanup elute 12 uL 
+
+Conc. : 
+
+| OriL | Middle | OriR |
+| ---- | ---- | ---- | 
+| 99.3 ng/uL | 84.6 ng/uL | 85.3 ng/uL | 
+
+| Thio-OriL | Middle | Thio-OriR |
+| ---- | ---- | ---- | 
+| 84.3 ng/uL | 106.5 ng/uL | 86.7 ng/uL | 
+
+1:2 backbone: Ori's ratio for ligation 
+
+3 PCR tubes all with same volume :
+
+| T7 Ligase Buffer | OriL | Middle | OriR | H2O | T7 Ligase | 
+| ---- | ---- | ---- | ---- | ---- | ---- | 
+| 15 uL | 2.08 uL | 4 uL | 2.46 uL | 5.46 uL | 1 uL | 
+
+| T7 Ligase Buffer | Thio-OriL | Middle | Thio-OriR | H2O | T7 Ligase | 
+| ---- | ---- | ---- | ---- | ---- | ---- | 
+| 15 uL | 3.08 uL | 4 uL | 3.03 uL | 3.89 uL | 1 uL | 
+
+Total : 30 uL 
+
+Incubate 25C for 1 hour in thermocycler 
+
+Cleanup Elute 12 uL
+
+Conc. : 
+
+pL : 55.75 ng/uL
+
+Thio-pL : 47.1 ng/uL 
 
 
 
