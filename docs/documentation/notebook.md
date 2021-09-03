@@ -645,9 +645,9 @@ Thio-pL : 47.1 ng/uL
 
 Cleanup Elute 20 uL 
 
-Concentration after TP :  ng/uL
+Concentration after TP : 30.8 ng/uL
 
-Concentration after DSBP : ng/uL
+Concentration after DSBP : 23.6 ng/uL
 
 
 
