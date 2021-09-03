@@ -364,7 +364,7 @@ Run gel on thiolated and non-thiolated pL to ensure ligated correctly
 
 ran 300 ng DNA
 
-| Ladder| Non-Thio pL | Thio pL |
+| Ladder | Non-Thio pL | Thio pL |
 | ---- | ---- | ---- |
 | 3 uL dye | 3 uL dye | 3 uL dye |
 | 1 uL 100 bp | 3.5 uL DNA | 4.4 uL DNA |
@@ -383,7 +383,7 @@ Correct length = 776 bp
 
 
 | Q5 | H2O | DNA | FWD Primer | REV Primer |
-| ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- | ---- | 
 | 25 uL | 23.5 uL | 0.5 uL | 0.5 uL | 0.5 uL |
 
 0.8% gel 130 V 35 min. :
