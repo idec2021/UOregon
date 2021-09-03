@@ -398,8 +398,8 @@ Run protein gel on induced/ electrocompetent cells in -80
 - use T7 cells as neg. control 
 - run on any kD gel and 7.5% gel to see DNAP
 
-| T7| 0 mM IPTG | 0.1 mM IPTG | 1.0 mM IPTG | 
-| ---- | ---- | ---- |
+| T7 | 0 mM IPTG | 0.1 mM IPTG | 1.0 mM IPTG | 
+| ---- | ---- | ---- | ---- |
 | 4.67 mg/mL | 56.6 mg/mL | 39.97 mg/mL | 31.15 mg/mL |
 
 - dilute down to 5 mg/mL with Bugbuster 
@@ -456,20 +456,20 @@ Ladder :
 1M Betaine : 
 
 | Q5 | H2O | DNA | FWD Primer | REV Primer | Betaine |
-| ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- | ---- | ---- | 
 | 25 uL | 11.5 uL | 0.5 uL | 1.5 uL | 1.5 uL | 10 uL |
 
 
 1.35M Betaine :
 
 | Q5 | H2O | DNA | FWD Primer | REV Primer | Betaine |
-| ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- | ---- | ---- | 
 | 25 uL | 8 uL | 0.5 uL | 1.5 uL | 1.5 uL | 13.5 uL |
 
 1.7M Betaine : 
 
- | Q5 | H2O | DNA | FWD Primer | REV Primer | Betaine |
-| ---- | ---- | ---- |
+| Q5 | H2O | DNA | FWD Primer | REV Primer | Betaine |
+| ---- | ---- | ---- | ---- | ---- | ---- | 
 | 25 uL | 4.5 uL | 0.5 uL | 1.5 uL | 1.5 uL | 17 uL |
 
 Cleanup Elute 20 uL 
@@ -520,19 +520,19 @@ Conc. 11.5 ng/uL
 Remix PCR 1,2 Propane-diol ( not linearized ) :
 
 | Q5 | H2O | DNA | FWD Primer | REV Primer | 1,2 Propane-diol|
-| ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- | ---- | ---- | 
 | 25 uL | 18.5 uL | 0.5 uL | 1.5 uL | 1.5 uL | 3 uL |
 
 BsaI cut Remix PCR 1,2 Propane-diol :
 
 | Q5 | H2O | DNA | FWD Primer | REV Primer | 1,2 Propane-diol|
-| ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- | ---- | ---- | 
 | 25 uL | 18.5 uL | 0.5 uL | 1.5 uL | 1.5 uL | 3 uL |
 
 BsaI cut Remix PCR 1.35M Betaine :
 
 | Q5 | H2O | DNA | FWD Primer | REV Primer | Betaine |
-| ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- | ---- | ---- | 
 | 25 uL | 8 uL | 0.5 uL | 1.5 uL | 1.5 uL | 13.5 uL |
 
 ## August 20th 
