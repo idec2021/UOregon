@@ -649,7 +649,7 @@ Concentration after TP : 30.8 ng/uL
 
 Concentration after DSBP : 23.6 ng/uL
 
-Run gel: 130 V 45 min.
+Run gel: 0/8% gel, 130 V 45 min.
 
 | Ladder | After DS | After Tp |
 | ---- | ---- | ---- |
