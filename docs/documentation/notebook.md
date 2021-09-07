@@ -2,22 +2,54 @@
 ## July 1st
 Golden Gate Assembly (set link to GGA protocol file) of Phi29 Terminal protein (TP) ,Single stranded binding protein (SSBP) and Double Stranded binding protein (DSBP)+pGS21a backbone with Phi29 DNA Polymerase(DNAP) 
 
-DpnI digest of backbone
+- PCR amplify fragments 
+- rSAP digestion 
+- PaqCI digestion of insert + backbone 
+
+| Backbone | Insert |
+| ----| ---- |
+| 5.71 uL DNA | 2.32 uL DNA |
+| 5 uL Cutsmart Buffer | 5 uL Cutsmart Buffer |
+| 1 uL PaqCI | 1 uL PaqCI |
+| 0.25 uL PaqCI activator | 0.25 uL PaqCI activator |
+| 38.1 uL H2O | 41.43 uL H2O |
+
+Total : 50 uL
+
+Incubate 37C for 1 hour , Cleanup elute 10 uL
+
+Conc. Insert : 12.75 ng/uL
+
+Conc. Backbone : 22.7 ng/uL
+
+Ligation (3 tubes of equal volume / components): 
+
+| Tube 1 |
+| ----| ---- |
+| 3.13 uL TPBP (insert) | 
+| 3.08 uL pGS21a (backbone) | 
+| 10 uL T7 Buffer |
+| 2.79 uL H2O | 
+| 1 uL T7 Ligase | 
+
+Incubate 25C for 1 hr
+
+Cleanup elute 10uL
 
 Cleanup Assembly:
 | Concentration |
 | ------------- |
-|  look in Noras notebook ng/uL |
+|  11.65 ng/uL |
 
 
 <img width="1019" alt="Screen Shot 2021-09-03 at 12 28 51 PM" src="https://user-images.githubusercontent.com/77999251/132057033-7c0e9d41-dbae-48c6-b8c0-fca727063a61.png">
-
 
 
 Make Agar+LB plates with Carbenicillin 
 
 ## July 2nd
 Transform Phi29-pGS21a into DH5alpha using electroporation protocol(link electroporation protocol) 
+
 | Component   | Volume |
 | ----| ---- |
 | DNA | 2uL |
@@ -649,7 +681,7 @@ Concentration after TP : 30.8 ng/uL
 
 Concentration after DSBP : 23.6 ng/uL
 
-Run gel: 0/8% gel, 130 V 45 min.
+Run gel: 0/8% gel, 130 V 30 min.
 
 | Ladder | After DS | After Tp |
 | ---- | ---- | ---- |
