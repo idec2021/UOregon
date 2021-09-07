@@ -25,7 +25,7 @@ Conc. Backbone : 22.7 ng/uL
 Ligation (3 tubes of equal volume / components): 
 
 | Tube 1 |
-| ----| ---- |
+| ----| 
 | 3.13 uL TPBP (insert) | 
 | 3.08 uL pGS21a (backbone) | 
 | 10 uL T7 Buffer |
