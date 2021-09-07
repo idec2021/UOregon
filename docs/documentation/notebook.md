@@ -649,9 +649,13 @@ Concentration after TP : 30.8 ng/uL
 
 Concentration after DSBP : 23.6 ng/uL
 
+Run gel: 130 V 45 min.
 
-
-
+| Ladder | After DS | After Tp |
+| ---- | ---- | ---- |
+|1 uL 1 kb Ladder | 6 uL DNA | 8.5 uL DNA |
+| 3 uL dye | 3 uL dye | 3 uL dye |
+| 10 uL H2O | 5 uL H2O | 2.5 uL H2O |
 
 
 
