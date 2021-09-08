@@ -24,8 +24,8 @@ Conc. Backbone : 22.7 ng/uL
 
 Ligation (3 tubes of equal volume / components): 
 
-| Tube 1 |
-| ----| 
+| Tube 1 of 3 |
+| ---- | 
 | 3.13 uL TPBP (insert) | 
 | 3.08 uL pGS21a (backbone) | 
 | 10 uL T7 Buffer |
@@ -681,6 +681,7 @@ Concentration after TP : 30.8 ng/uL
 
 Concentration after DSBP : 23.6 ng/uL
 
+## September 7th 
 Run gel: 0/8% gel, 130 V 30 min.
 
 | Ladder | After DS | After Tp |
@@ -688,6 +689,45 @@ Run gel: 0/8% gel, 130 V 30 min.
 |1 uL 1 kb Ladder | 6 uL DNA | 8.5 uL DNA |
 | 3 uL dye | 3 uL dye | 3 uL dye |
 | 10 uL H2O | 5 uL H2O | 2.5 uL H2O |
+
+Gel ( want band around 9kb) : 
+
+<img width="275" alt="Screen Shot 2021-09-07 at 11 35 06 AM" src="https://user-images.githubusercontent.com/77999251/132394204-191a04ea-279f-46b2-8507-ebfb94725b31.png">
+
+- Run PCR on backbones of fragments that are going to be mutated :
+- backbone for entire insert
+- backbone for TPDNAP 
+- backbone for TP
+
+How PCR was set up:
+
+| Q5 | H2O | DNA | FWD Primer | REV Primer | Betaine |
+| ---- | ---- | ---- | ---- | ---- | ---- | 
+| 25 uL | 8 uL | 0.5 uL | 1.5 uL | 1.5 uL | 13.5 uL |
+
+## September 8th 
+Cleanup elute 20 uL
+
+Conc. :
+
+Backbone for entire insert : 28.15 ng/uL
+
+Backbone for TPDNAP : 76.2 ng/uL
+
+Backbone for TP : 65.75 ng/uL
+
+Run 300 ng on gel, 130 V, 30 min. 
+
+| Ladder | insert backbone | TPDNAP backbone | TP backbone |
+| ---- | ---- | ---- | ---- |
+|1 uL 1 kb Ladder | 10.6 uL DNA | 3.93 uL DNA | 4.56 uL DNA |
+| 3 uL dye | 3 uL dye | 3 uL dye | 3 uL dye |
+| 10 uL H2O | 0.4 uL H2O | 7.1 uL H2O | 6.4 uL H2O |
+
+Gel : 
+
+
+
 
 
 
