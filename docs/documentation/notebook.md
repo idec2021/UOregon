@@ -726,6 +726,8 @@ Run 300 ng on gel, 130 V, 30 min.
 
 Gel : 
 
+<img width="263" alt="Screen Shot 2021-09-08 at 1 36 41 PM" src="https://user-images.githubusercontent.com/77999251/132581923-d183d7fc-c5dd-401a-b217-8b2fb4ebd5b5.png">
+
 
 
 
