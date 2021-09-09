@@ -90,10 +90,18 @@ send 10uL of diluted sample
 ## July 5th 
 Sequence validated by SNPsaurus
 
-Colony 17 perfect alignment match on benchling 
+Colony 17 perfect alignment match on benchling
+
+Make overnight culture with T7+remix colony 17
 
 ## July 6th
-Use miniprep Colony 17 from 7/4 for chemically competent transformation(link protocol) into T7
+Miniprep Colony 17 for chemically competent transformation into T7
+ 
+Elute 31 uL 
+ 
+Conc. : 80.4 ng/uL 
+ 
+Dilute to 40 ng/uL for transformation 
 
 1 uL plasmid, 50 uL cells 
 
