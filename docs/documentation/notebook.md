@@ -123,18 +123,18 @@ T7 no plasmid and only LB used as controls
 
 | Type of Cells | Concentration of IPTG | Volume of cells | Volume of IPTG | Volume of LB |
 | ---- | ---- | ---- | ---- | ---- |
-| Col 17 | 0mM | 8.65 uL| 0uL | 791 uL |
-| Col 17 | 0.01mM | 8.65 uL | 0.08uL | 791 uL |
-| Col 17 | 0.05mM | 8.65 uL | 0.4uL | 790uL |
-| Col 17 | 0.1mM |  8.65 uL | 0.8uL | 790uL |
-| Col 17 | 0.5mM | 8.65 uL | 4 uL | 787uL |
-| Col 17 | 1mM | 8.65 uL | 8uL | 783uL |
-| T7 (-) | 0mM | 8.14 uL | 0uL | 791uL |
-| T7 (-) | 0.1 mM | 8.14 uL | 0.8uL | 790uL |
-| T7 (-) | 1mM | 8.14 uL  | 8uL | 783uL |
-| LB (-) | 0mM | 0 uL | 0uL | 800uL |
-| LB (-) | 0.1mM | 0uL | 0.8uL | 799uL |
-| LB (-) | 1mM | 0uL | 8uL | 792uL |
+| Col 17 | 0mM | 8.65 uL| 0 uL | 791 uL |
+| Col 17 | 0.01mM | 8.65 uL | 0.08 uL | 791 uL |
+| Col 17 | 0.05mM | 8.65 uL | 0.4 uL | 790 uL |
+| Col 17 | 0.1mM |  8.65 uL | 0.8 uL | 790 uL |
+| Col 17 | 0.5mM | 8.65 uL | 4 uL | 787 uL |
+| Col 17 | 1mM | 8.65 uL | 8 uL | 783 uL |
+| T7 (-) | 0mM | 8.14 uL | 0 uL | 791 uL |
+| T7 (-) | 0.1 mM | 8.14 uL | 0.8 uL | 790 uL |
+| T7 (-) | 1mM | 8.14 uL  | 8 uL | 783 uL |
+| LB (-) | 0mM | 0 uL | 0 uL | 800 uL |
+| LB (-) | 0.1mM | 0 uL | 0.8 uL | 799.2 uL |
+| LB (-) | 1mM | 0 uL | 8 uL | 792 uL |
 
 ## July 9th 
 Induction Curve: 
@@ -547,7 +547,7 @@ Conc. 2 : 9.45 ng/uL
 BsaI digest: 
 - cut all of mp 1 
 
- | Cutsmart | BsaI-Hfv2 | H2O | DNA |
+| Cutsmart | BsaI-Hfv2 | H2O | DNA |
 | ---- | ---- | ---- | ---- | 
 | 5 uL | 0.4 uL | 11.6 uL | 33 uL (400 ng) |
 
@@ -735,6 +735,43 @@ Run 300 ng on gel, 130 V, 30 min.
 Gel : 
 
 <img width="263" alt="Screen Shot 2021-09-08 at 1 36 41 PM" src="https://user-images.githubusercontent.com/77999251/132581923-d183d7fc-c5dd-401a-b217-8b2fb4ebd5b5.png">
+
+Make overnight culture of T7 and T7+remix cells 
+
+## September 9th
+Induction of T7+Remix cells 
+
+| Type of Cells | Concentration of IPTG | Volume of cells | Volume of IPTG | Volume of LB |
+| ---- | ---- | ---- | ---- | ---- |
+| T7+remix | 0mM | 12 uL| 0uL | 788 uL |
+| T7+remix | 0.01mM | 12 uL | 0.08 uL | 787.9 uL |
+| T7+remix | 0.05mM | 12 uL | 0.4 uL | 787.6 uL |
+| T7+remix | 0.1mM |  12 uL | 0.8 uL | 787.2 uL |
+| T7+remix | 0.5mM | 12 uL | 4 uL | 784 uL |
+| T7+remix | 1mM | 12 uL | 8 uL | 780 uL |
+| T7 (-) | 0mM | 11.1 uL | 0 uL | 788.9 uL |
+| T7 (-) | 0.1 mM | 11.1 uL | 0.8 uL | 788.1 uL |
+| T7 (-) | 1mM | 11.1 uL  | 8 uL | 780.9 uL |
+| LB (-) | 0mM | 0 uL | 0 uL | 800 uL |
+| LB (-) | 0.1mM | 0 uL | 0.8 uL | 799.2 uL |
+| LB (-) | 1mM | 0 uL | 8 uL | 792 uL |
+
+Miniprep leftover overnight culture cells 
+
+Elute 50 uL
+
+Conc: 33.45 ng/uL
+
+Digest 30 uL miniprep remix DNA with KpnI-HF to linearize to try to make PCR run more smoothly 
+
+| Cutsmart | KpnI-Hfv2 | H2O | DNA |
+| ---- | ---- | ---- | ---- | 
+| 5 uL | 1 uL | 14 uL | 30 uL (1000 ng) |
+
+Conc. :  ng/uL
+
+
+
 
 
 
