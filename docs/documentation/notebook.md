@@ -795,7 +795,6 @@ TPDNAP backbone : 195.6 ng/uL
 
 0.8% gel, 130 V, 30 min., 210 ng insert backbone DNA, 1212 ng TPDNAP backbone (accidentally switched concentrations, meant to only run 500 ng) 
 
-
 | Ladder | insert backbone | TPDNAP backbone |
 | ---- | ---- | ---- | 
 |1 uL 1 kb Ladder | 2.6 uL DNA | 6.2 uL DNA |
@@ -806,6 +805,17 @@ Gel:
 
 <img width="278" alt="Screen Shot 2021-09-10 at 12 34 56 PM" src="https://user-images.githubusercontent.com/77999251/132907784-dca1de20-b3df-4a71-befd-bb998aba5049.png">
 
+- Ran again to ensure right band is not double band 
+- 500 ng each
+
+
+| Ladder | insert backbone | TPDNAP backbone |
+| ---- | ---- | ---- | 
+|1 uL 1 kb Ladder | 6.2 uL DNA | 2.6 uL DNA |
+| 3 uL dye | 3 uL dye | 3 uL dye | 
+| 8 uL H2O | 2.8 uL H2O | 6.4 uL H2O | 
+
+Redone gel:
 
 
 
