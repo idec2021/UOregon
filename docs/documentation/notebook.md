@@ -817,6 +817,7 @@ Gel:
 
 Redone gel:
 
+<img width="235" alt="Screen Shot 2021-09-10 at 2 11 27 PM" src="https://user-images.githubusercontent.com/77999251/132918187-754c17d8-87eb-4965-a6fc-aa7f57574864.png">
 
 
 
