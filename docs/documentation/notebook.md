@@ -785,6 +785,7 @@ Annealing temp. : 68.3C for whole insert backbone (5347 bp), 67.8C for TPDNAP ba
 
 Extension Time : 2 minutes for both ( Thermofisher reccomends 15-30 sec/kB ) 
 
+## September 10th 
 Cleanup Elute 21 uL 
 
 Conc. : 
