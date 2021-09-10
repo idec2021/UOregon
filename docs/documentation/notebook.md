@@ -768,7 +768,49 @@ Digest 30 uL miniprep remix DNA with KpnI-HF to linearize to try to make PCR run
 | ---- | ---- | ---- | ---- | 
 | 5 uL | 1 uL | 14 uL | 30 uL (1000 ng) |
 
-Conc. :  ng/uL
+Cleanup elute 20 uL
+
+Conc. : 27.4 ng/uL
+
+- Use new polymerase : Phusion 
+
+- template DNA: whole insert backbone, TPDNAP backbone 
+
+| H2O | Phusion | FWD Prime | Rev Primer | DNA | 
+| ---- | ---- | ---- | ---- | ---- |
+| 21.5 uL | 25 uL | 1.5 uL | 1.5 uL | 0.5 uL | 
+
+Thermocycler conditions:
+Annealing temp. : 68.3C for whole insert backbone (5347 bp), 67.8C for TPDNAP backbone (6684 bp)
+
+Extension Time : 2 minutes for both ( Thermofisher reccomends 15-30 sec/kB ) 
+
+Cleanup Elute 21 uL 
+
+Conc. : 
+
+Insert backbone : 80.9 ng/uL
+
+TPDNAP backbone : 195.6 ng/uL
+
+0.8% gel, 130 V, 30 min., 210 ng insert backbone DNA, 1212 ng TPDNAP backbone (accidentally switched concentrations, meant to only run 500 ng) 
+
+
+| Ladder | insert backbone | TPDNAP backbone |
+| ---- | ---- | ---- | 
+|1 uL 1 kb Ladder | 2.6 uL DNA | 6.2 uL DNA |
+| 3 uL dye | 3 uL dye | 3 uL dye | 
+| 8 uL H2O | 6.4 uL H2O | 2.8 uL H2O | 
+
+Gel:
+
+<img width="278" alt="Screen Shot 2021-09-10 at 12 34 56 PM" src="https://user-images.githubusercontent.com/77999251/132907784-dca1de20-b3df-4a71-befd-bb998aba5049.png">
+
+
+
+
+
+
 
 
 
