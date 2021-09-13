@@ -7,7 +7,7 @@ Team UOregon is based out of the Plesa lab at the Univeristy of Oregon's Knight 
 ### <span style="color:royalblue"> Nora Kearns </span>
 <img width="200" alt="Nora_headshot_square" src="https://user-images.githubusercontent.com/59736592/129624984-b0a6698f-23a3-4d3c-9e08-6e6136dc6862.png">
 
-Nora joined the Plesa Lab as an undergraduate in 2019, and since then has worked on a variety of projects, both experimental and computational. She is is now an MSc student in the Bioinformatics and Genomics Master's Program, and her research interests include in synthetic biology, bioinformatics, and DNA nanotechnology. Nora started the UOregon iDEC team with Dr. Plesa because she is excited about leveraging directed evolution as a strategy to engineer complex proteins.
+Nora joined the Plesa Lab as an undergraduate in 2019, and since then has worked on a variety of projects, both experimental and computational. She is is now an MSc student in the Bioinformatics and Genomics Master's Program, and her research interests include synthetic biology, bioinformatics, and DNA nanotechnology. Nora started the UOregon iDEC team with Dr. Plesa because she is excited about leveraging directed evolution as a strategy to engineer complex proteins.
 
 ## <b>Team Player</b>
 ### <span style="color:royalblue"> Amanda Kreppel </span>
