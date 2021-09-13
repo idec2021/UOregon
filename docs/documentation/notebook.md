@@ -776,7 +776,7 @@ Conc. : 27.4 ng/uL
 
 - template DNA: whole insert backbone, TPDNAP backbone 
 
-| H2O | Phusion | FWD Prime | Rev Primer | DNA | 
+| H2O | Phusion | FWD Primer | Rev Primer | DNA | 
 | ---- | ---- | ---- | ---- | ---- |
 | 21.5 uL | 25 uL | 1.5 uL | 1.5 uL | 0.5 uL | 
 
@@ -820,6 +820,23 @@ Redone gel:
 
 <img width="235" alt="Screen Shot 2021-09-10 at 2 11 27 PM" src="https://user-images.githubusercontent.com/77999251/132918187-754c17d8-87eb-4965-a6fc-aa7f57574864.png">
 
+## September 13th
+- Ran PCR on non-linearized mp remix for TP backbone for mutagenesis 
+- Used Fusion
+- Annealing temp. : 66.2C 
+- Extension time : 2 min. 40 sec ( ~ 8 kb )
+
+- Diluted mp product from 9/9 to 1 ng/uL
+
+| H2O | Phusion | FWD Primer | Rev Primer | DNA | 
+| ---- | ---- | ---- | ---- | ---- |
+| 21.5 uL | 25 uL | 1.5 uL | 1.5 uL | 0.5 uL | 
+
+Cleanup Elute 20 uL 
+
+Conc : 137.5 ng/uL
+
+0.8% gel, 140 V , 30 min. 
 
 
 
