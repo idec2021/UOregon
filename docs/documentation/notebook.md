@@ -842,6 +842,9 @@ Conc : 137.5 ng/uL
 
 ## September 14th
 
+## September 15th 
+
+<img width="244" alt="Screen Shot 2021-09-15 at 12 56 58 PM" src="https://user-images.githubusercontent.com/77999251/133500726-d324e076-b314-4cf5-a0bb-2708407a1088.png">
 
 
 
