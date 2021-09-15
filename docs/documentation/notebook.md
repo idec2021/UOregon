@@ -841,8 +841,54 @@ Conc : 137.5 ng/uL
 <img width="248" alt="Screen Shot 2021-09-13 at 2 54 07 PM" src="https://user-images.githubusercontent.com/77999251/133161568-15c611e6-9415-40ad-8565-c6608317b752.png">
 
 ## September 14th
+Error Prone PCR Mutagenesis of Inserts 
+Tubes : 
+| Insert | Taq PCR Buffer | dNTP mix | 55 mM MgCl2 | 0.01 mM MnCl2 | FWD Primer | REV Primer | Taq Polymerase | Plasmid DNA | H2O |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+| Whole Insert | 10 uL | 2 uL | 10 uL | 1 or 15 uL | 3 uL | 3 uL | 1 uL | 5 uL DNA (5 ng)| 65 or 51 uL H2O |
+| TPDNAP | 10 uL | 2 uL | 10 uL | 1 or 15 uL | 3 uL | 3 uL | 1 uL | 3 uL DNA (3 ng)| 67 or 53 uL H2O |
+| TPDNAP | 10 uL | 2 uL | 10 uL | 1 or 15 uL | 3 uL | 3 uL | 1 uL | 1.25 uL DNA (1.25 ng)| 68.75 or 54.75 uL H2O |
+
+PCR: 
+- 30s 94C
+- 30s ( insert anneal : 58C, TPDNAP anneal : 55C, TP anneal : 58C )
+- 4 min. (insert), 2 min. (TPDNAP), 1 min. (TP) 72C
+- 14-20 cycles 
+- 10 min. 72C
+- infinite hold 4C 
 
 ## September 15th 
+Cleanup Elute 21 uL 
+
+Conc. : 
+
+Insert 0.01 mM : 88.7 ng/uL
+
+Insert 0.15 mM : 118.8 ng/uL
+
+TPDNAP 0.01 mM : 101.6 ng/uL
+
+TPDNAP 0.15 mM : 110.3 ng/uL
+
+TP 0.01 mM : 90.75 ng/uL
+
+TP 0.15 mM : 114.9 ng/uL
+
+Mix Equimolar Concentrations 
+
+| Insert 4043 bp | TPNAP 2706 bp | TP 764 bp |
+| ---- | ---- | ---- | 
+| 0.63 pmol each | 1.08 pmol each | 3.42 pmol each |
+| 19 uL 0.01 mM | 19 uL 0.01 mM | 19 uL 0.01 mM | 
+| 14.14 uL 0.15 mM | 17.5 uL 0.15 mM | 14.96 uL 0.15 mM | 
+
+Conc.: 
+
+Insert Mix : 101.2 ng/uL
+
+TPDNAP Mix : 105.4 ng/uL
+
+TP Mix : 102.4 ng/uL
 
 <img width="244" alt="Screen Shot 2021-09-15 at 12 56 58 PM" src="https://user-images.githubusercontent.com/77999251/133500726-d324e076-b314-4cf5-a0bb-2708407a1088.png">
 
