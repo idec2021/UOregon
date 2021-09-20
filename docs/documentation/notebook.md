@@ -227,8 +227,6 @@ Gel stained with Colloidal:
 
 Realized that DNAP size might be too hard to see on gel, ordered 7.5% Biorad protein gel to zoom in on 90 kDa
 
-~Should have run only pGS21a backbone with no phi29 genes in as control~ 
-
 ## July 19th 
 Make more pL (non-thiolated and thiolated) using different primers 
 
