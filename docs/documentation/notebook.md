@@ -888,7 +888,137 @@ TPDNAP Mix : 105.4 ng/uL
 
 TP Mix : 102.4 ng/uL
 
+1.2% gel, 130V, 36 min.
+
+| 1 kb Ladder | insert | TPDNAP | TP | 100 bp Ladder |
+| ---- | ---- | ---- | ---- | ---- | 
+| 1 uL 1 kb Ladder | 2.96 uL DNA | 2.84 uL DNA | 2.93 uL DNA | 1 uL 100 bp Ladder |
+| 3 uL dye | 3 uL dye | 3 uL dye | 3 uL dye | 3 uL dye | 
+| 8 uL H2O | 6.04 uL H2O | 6.16 uL H2O | 6.07 uL H2O | 8 uL H2O |
+
 <img width="244" alt="Screen Shot 2021-09-15 at 12 56 58 PM" src="https://user-images.githubusercontent.com/77999251/133500726-d324e076-b314-4cf5-a0bb-2708407a1088.png">
+
+- lost TP/TP backbone to human error
+
+DpnI Digest backbone and inserts: 
+
+| Cutsmart | DpnI | H2O | insert backbone DNA |
+| ---- | ---- | ---- | ---- | 
+| 5 uL | 1 uL | 32.8 uL | 11.2 uL | 
+
+| Cutsmart | DpnI | H2O | insert DNA |
+| ---- | ---- | ---- | ---- | 
+| 5 uL | 2 uL | 13 uL | 30 uL |
+
+| Cutsmart | DpnI | H2O | TPDP backbone DNA |
+| ---- | ---- | ---- | ---- | 
+| 5 uL | 1 uL | 32.8 uL | 11.2 uL |
+
+| Cutsmart | DpnI | H2O | TPDP DNA |
+| ---- | ---- | ---- | ---- | 
+| 5 uL | 2 uL | 10 uL | 33 uL |
+
+Incubate 37C for 1 hour
+
+Cleanup Elute 21 uL 
+
+Conc. : 
+
+Insert backbone : 35.4 ng/uL
+
+Insert : 58.1 ng/uL
+
+TPDP backbone : 54.9 ng/uL
+
+TPDP : 76.7 ng/uL 
+
+## September 20th 
+PaqCI Digest mutagens/ backbones 
+
+| Cutsmart | PaqCI | H2O | Insert backbone DNA | PaqCI activator |
+| ---- | ---- | ---- | ---- | ---- |
+| 5 uL | 1 uL | 23.75 uL | 20 uL | 0.25 uL |
+
+| Cutsmart | PaqCI | H2O | Insert  DNA | PaqCI activator |
+| ---- | ---- | ---- | ---- | ---- |
+| 5 uL | 1 uL | 23.75 uL | 20 uL | 0.25 uL |
+
+| Cutsmart | PaqCI | H2O | TPDP backbone DNA | PaqCI activator |
+| ---- | ---- | ---- | ---- | ---- |
+| 5 uL | 1 uL | 23.75 uL | 20 uL | 0.25 uL |
+
+| Cutsmart | PaqCI | H2O | TPDP  DNA | PaqCI activator |
+| ---- | ---- | ---- | ---- | ---- |
+| 5 uL | 1 uL | 23.75 uL | 20 uL | 0.25 uL |
+
+37C for 1 hour, 30 min. in add rSAP to backbones to prevent self-ligation 
+
+Cleanup Elute 21 uL
+
+Conc:
+
+Insert backbone : 19.4 ng/uL
+
+Insert : 31.2 ng/uL
+
+TPDP backbone : 26.4 ng/uL
+
+TPDP : 45.8 ng/uL 
+
+Redo TP backbone PCR : 
+
+| H2O | Phusion | FWD Primer | Rev Primer | DNA | 
+| ---- | ---- | ---- | ---- | ---- |
+| 21.5 uL | 25 uL | 1.5 uL | 1.5 uL | 0.5 uL | 
+
+Cleanup Elute 21 uL 
+
+Conc. : 158 ng/uL 
+
+PCR amplify TP with Agilent Genemorph error-prone PCR mutagenesis kit 
+
+| H2O | 10X Mutazyme II rxn buffer | 40 mM dNTP mix | FWD primer | REV primer | Mutazyme II DNAP | DNA |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 41.5 uL | 5 uL | 1 uL | 0.25 uL | 0.25 uL | 1 uL | 1 uL | 
+
+Thermocycler conditions : 
+
+95C 2 min.
+
+95C 30 sec
+
+66C (Tm-5C) 30 sec 
+
+30 cycles
+
+72C 1 min.
+
+72C 10 min.
+
+4C forever 
+
+## September 21st 
+
+Cleanup Elute 26 uL 
+
+Conc : ng/uL 
+
+- PCR amplify p1 backbones ( after TP & after DS ) using Phusion
+
+| H2O | Phusion | FWD Primer | Rev Primer | DNA | 
+| ---- | ---- | ---- | ---- | ---- |
+| 21.5 uL | 25 uL | 1.5 uL | 1.5 uL | 0.5 uL | 
+
+Cleanup Elute 25 uL 
+
+Conc. : 
+
+After TP : ng/uL
+
+After DS : ng/uL
+
+
+
 
 
 
