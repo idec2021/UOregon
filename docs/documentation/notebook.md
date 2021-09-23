@@ -890,7 +890,7 @@ TP Mix : 102.4 ng/uL
 
 1.2% gel, 130V, 36 min.
 
-| 1 kb Ladder | insert | TPDNAP | TP | 100 bp Ladder |
+| 1 kb Ladder | Insert | TPDNAP | TP | 100 bp Ladder |
 | ---- | ---- | ---- | ---- | ---- | 
 | 1 uL 1 kb Ladder | 2.96 uL DNA | 2.84 uL DNA | 2.93 uL DNA | 1 uL 100 bp Ladder |
 | 3 uL dye | 3 uL dye | 3 uL dye | 3 uL dye | 3 uL dye | 
@@ -999,9 +999,9 @@ Thermocycler conditions :
 
 ## September 21st 
 
-Cleanup Elute 26 uL 
+Cleanup Elute 25 uL 
 
-Conc : ng/uL 
+Conc : 86.95 ng/uL 
 
 - PCR amplify p1 backbones ( after TP & after DS ) using Phusion
 
@@ -1013,23 +1013,24 @@ Cleanup Elute 25 uL
 
 Conc. : 
 
-After TP : ng/uL
+After TP : 147 ng/uL
 
-After DS : ng/uL
+After DS : 179 ng/uL
 
+## September 23rd
+Run gel of Remix after TP and Remix afer DS to ensure Phusion PCR worked 
 
+0.8% gel , 300 ng DNA 
 
+| 1 kb Ladder | After TP | After DS | 
+| ---- | ---- | ---- |
+| 1 uL 1 kb Ladder | 2 uL DNA | 1.7 uL DNA | 
+| 3 uL dye | 3 uL dye | 3 uL dye | 
+| 8 uL H2O | 7 uL H2O | 7.3 uL H2O | 
+ 
+<img width="242" alt="Screen Shot 2021-09-23 at 12 08 58 PM" src="https://user-images.githubusercontent.com/77999251/134568756-aaa28a49-7484-47e9-aa71-ffe4eaaf2809.png">
 
-
-
-
-
-
-
-
-
-
-
+DpnI digest of TP mut, Remix After TP and Remix After DS
 
 
 
