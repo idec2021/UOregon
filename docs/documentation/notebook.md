@@ -1011,7 +1011,7 @@ Conc : 86.95 ng/uL
 
 Cleanup Elute 25 uL 
 
-Conc. : 
+Conc. :
 
 After TP : 147 ng/uL
 
@@ -1050,6 +1050,49 @@ DpnI digest of TP mut, Remix After TP, Remix After DS and Backbone for TP Mut
 | 5 uL | 2 uL | 20 uL | 23 uL |
 
 Incubate 37C for 1 hour, heat inactivate 80C for 20 min. 
+
+Cleanup Elute 21 uL
+
+Conc. : 
+
+TP Mut : ng/uL
+
+TP Mut backbone : ng/uL
+
+Remix after TP : ng/uL
+
+Remix after DS : ng/uL 
+
+- Ligate Insert and TPDP mutagens to respective backbones 
+
+1:3 pmol ratio 
+
+insert backbone : 0.08 pmol, 280 ng DNA, 14.4 uL 
+
+insert : 0.24 pmol, 640 ng DNA, 20 uL
+
+TPDP backbone : 0.12 pmol, 530 ng DNA, 20 uL
+
+TPDP : 0.36 pmol, 640 ng DNA, 14 uL 
+
+3 tubes : 
+
+| T4 Buffer | T4 Ligase | H2O | Insert | Insert backbone |
+| ---- | ---- | ---- | ---- | ---- |
+| 2 uL | 1 uL | 5.54 uL | 6.66 uL | 5.54 uL |
+
+3 tubes : 
+
+| T4 Buffer | T4 Ligase | H2O | TPDP | TPDP backbone |
+| ---- | ---- | ---- | ---- | ---- |
+| 2 uL | 1 uL | 5.71 uL | 4.63  uL | 6.66 uL |
+
+Total : 20 uL
+
+Incubation : 16C 24hr, 65C 10 min., 10C forever
+
+
+
 
 
 
