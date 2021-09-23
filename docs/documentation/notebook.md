@@ -1030,7 +1030,28 @@ Run gel of Remix after TP and Remix afer DS to ensure Phusion PCR worked
  
 <img width="242" alt="Screen Shot 2021-09-23 at 12 08 58 PM" src="https://user-images.githubusercontent.com/77999251/134568756-aaa28a49-7484-47e9-aa71-ffe4eaaf2809.png">
 
-DpnI digest of TP mut, Remix After TP and Remix After DS
+DpnI digest of TP mut, Remix After TP, Remix After DS and Backbone for TP Mut 
+
+
+| Cutsmart | DpnI | H2O | TP Mut DNA |
+| ---- | ---- | ---- | ---- | 
+| 5 uL | 2 uL | 19 uL | 24 uL | 
+
+| Cutsmart | DpnI | H2O | TP Mut backbone DNA |
+| ---- | ---- | ---- | ---- | 
+| 5 uL | 2 uL | 23 uL |20 uL |
+
+| Cutsmart | DpnI | H2O | Remix for P1 after TP DNA |
+| ---- | ---- | ---- | ---- | 
+| 5 uL | 2 uL | 20 uL | 23 uL |
+
+| Cutsmart | DpnI | H2O | Remix for P1 after DS DNA |
+| ---- | ---- | ---- | ---- | 
+| 5 uL | 2 uL | 20 uL | 23 uL |
+
+Incubate 37C for 1 hour, heat inactivate 80C for 20 min. 
+
+
 
 
 
