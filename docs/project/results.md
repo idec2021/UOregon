@@ -35,7 +35,8 @@ Lane 6: DHFR R67 template positive control
 
 The Phi29 TP, DSBP, and SSBP were ligated into an alternative plasmid backbone, pGS21a, which carried the wildtype ɸ29 DNAP with 6XHis and GST tags to enable easier purification. In the resulting plasmid, pGSɸ29, expression of the Phi29 proteins is under control of a T7 promoter. pGS21a was transformed into E. coli strain T7 express (C2566H), which expresses T7 polymerase in the lac operon. T7 express is also optimized for protein expression.
 
-<img width="239" alt="REMIX_pGS21a-phi29-ligation" src="https://user-images.githubusercontent.com/59736592/134743679-b2f427f8-4778-4e4b-a7b0-5010cbbd4bac.png">
+
+<img width="247" alt="REMIX_pGS21a_phi29" src="https://user-images.githubusercontent.com/59736592/134743938-32fdc58b-6bdc-46a9-99cd-d754d94ca064.png">
 
 **Figure 4. Restriction Digest Validation of pGSɸ29**<br/> 
 The reconstructed pGSɸ29 plasmid was validated by restriction digest with KpnI and NdeI. Lane 1: 1 kb ladder, Lane 2: KpnI and NdeI digest of pɸ29 plasmid. Lane 3: KpnI/NdeI digest of pGSɸ29 plasmid. 
@@ -58,3 +59,4 @@ To determine whether the Phi29 proteins were actually being expressed in T7, a p
 induced at 0, 0.1, and 1.0 mM IPTG. T7 cells not expressing pGSɸ29 was run as a control. Far left and right lanes are the Precision Plus Protein Ladder, and bands at the expected molecular weights are marked: DSBP: 12 kD, SSBP: 13 kD, TP: 31 kD, GST-tagged DNAP: 95 kD.  
 
 
+<img width="247" alt="REMIX_pGS21a_phi29" src="https://user-images.githubusercontent.com/59736592/134743938-32fdc58b-6bdc-46a9-99cd-d754d94ca064.png">
