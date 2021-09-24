@@ -20,7 +20,7 @@ Significant growth on all four replica plates was only observed on the 5 ug/mL t
 The 50% inhibitory concentration of DHFR R67 to trimethoprim is 5.8 g/L6. If pL replication by Phi29 proteins were successful, the expressed DHFR R67 would easily confer resistance of 10 ug/mL (0.01 g/L). The growth observed at lower trimethoprim resistance regardless of pL presence suggests a high frequency of escape mutations, in which the host naturally acquires resistance to the antibiotic through genomic mutations rather than expressing the plasmid carrying resistance. This was confirmed by running a colony PCR (Fig. 4) to assess the presence of pL in the surviving colonies. A colony from each of the conditions under which growth was observed was tested. The inverted terminal repeats in the Phi29 ORIs make PCR amplification of the entire pL impossible, so a PCR of the middle sequence, DHFR R67, was done and the product was visualized on a gel. Negative PCR results from all colonies verified that cells acquired resistance to trimethoprim through a separate mechanism independent of pL replication by Phi29 proteins. Colony PCR also verified that pL did not integrate into the genome, as DFHR R67 would have been amplified off the 0.1 mM IPTG -pL colonies.
 
 <img src="https://user-images.githubusercontent.com/59736592/134725506-5b72b44d-7a55-430a-b908-e2cdf2cf6303.png" alt = "pL_GEL" width = "300">
-**Figure 4. Colony PCR for DHFR R67**
+**Figure 3. Colony PCR for DHFR R67**
 Lane 1: 100 bp ladder. 
 Lane 2: no template negative control. 
 Lane 3: 0.1 mM IPTG/5ug/mL Tri /pL++. 
@@ -31,3 +31,20 @@ Lane 6: DHFR R67 template positive control
 The Phi29 TP, DSBP, and SSBP were ligated into an alternative plasmid backbone, pGS21a, which carried the wildtype ɸ29 DNAP with 6XHis and GST tags to enable easier purification. In the resulting plasmid, pGSɸ29, expression of the Phi29 proteins is under control of a T7 promoter. pGS21a was transformed into E. coli strain T7 express (C2566H), which expresses T7 polymerase in the lac operon. T7 express is also optimized for protein expression.
 
 <img src="https://user-images.githubusercontent.com/59736592/134726581-389831e0-cee6-480e-9b91-3d6ac90432bd.png" alt = "T7_Induction" width = "300">
+**Figure 4. Doubling Time of T7 Cells Expressing pGSɸ29**
+Growth of pɸ29 cells (blue) when induced at 0, 0.01, 0.05, 0.1, 0.5, and 1.0 mM IPTG compared to growth of DH5α cells (orange) at 0, 0.1, and 1.0 mM IPTG. 
+
+T7 cells expressing pGSɸ29 were then induced at increasing concentrations of IPTG to express the Phi29 proteins. As IPTG induction level increased from 0 mM to 0.01 mM, doubling time slowed by 7.36%, from 106.1 ± 2.49 min to 113.9 ± 0.98 min. Increasing IPTG concentration to 0.05, 0.1, 0.5, and 1.0 mM slowed doubling time to 110.28 ± 5.08 min (3.92% slower), 111.94 ± 3.19 min (5.49% slower), 114.92 ± 3.50 min (8.30% slower) and 114.45 ± 3.00 min (7.85% slower).
+Doubling time in T7 express was significantly faster than in DH5α. T7 cells induced at varying levels of IPTG were then transformed with pL. Cells both with (pL+) and without  pL (pL-), were plated on media with IPTG concentrations corresponding to induction level (0 mM, 0.1 mM, or 1 mM). A negative control not transformed with pL was also plated on each IPTG condition. To avoid escape mutations, trimethoprim concentration was increased to 0.5 mg/mL (a 50 fold increase from the first trial with DH5α). No growth was observed on any of the plates, indicating that replication of pL by the Phi29 proteins was unsuccessful.
+<img src="https://user-images.githubusercontent.com/59736592/134737863-9f9fd6a4-86ab-4b67-8cda-436ca43398bf.png" alt = "Plate_growth_T7" width = "300">
+
+To determine whether the Phi29 proteins were actually being expressed in T7, a protein gel was run on cells induced at 0, 0.1, and 1.0 mM IPTG. Proteins bands were only clear in the sample expressed at 0.1 mM IPTG. A distinct band at the molecular weight of the terminal protein (31 kD) was observed, but it was difficult to discern if bands at 95, 13, and 12 kD were distinct from bands in the T7 negative control.
+<img src="https://user-images.githubusercontent.com/59736592/134738122-de577b82-02d7-4786-be31-b99fe76c35e1.png" alt = "T7_Protein_Gel" width = "300">
+**Figure 6. Protein Gel of T7 Cells Expressing pGSɸ29**
+induced at 0, 0.1, and 1.0 mM IPTG. T7 cells not expressing pGSɸ29 was run as a control. Far left and right lanes are the Precision Plus Protein Ladder, and bands at the expected molecular weights are marked: DSBP: 12 kD, SSBP: 13 kD, TP: 31 kD, GST-tagged DNAP: 95 kD.  
+
+
+
+
+
+
