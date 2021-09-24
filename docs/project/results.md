@@ -28,6 +28,6 @@ Lane 4: 1.0 mM IPTG/10 ug/mL/pL+.
 Lane 5: 0.1 mM IPTG/5 ug/mL/pL-. 
 Lane 6: DHFR R67 template positive control
 
+The Phi29 TP, DSBP, and SSBP were ligated into an alternative plasmid backbone, pGS21a, which carried the wildtype ɸ29 DNAP with 6XHis and GST tags to enable easier purification. In the resulting plasmid, pGSɸ29, expression of the Phi29 proteins is under control of a T7 promoter. pGS21a was transformed into E. coli strain T7 express (C2566H), which expresses T7 polymerase in the lac operon. T7 express is also optimized for protein expression.
 
-
-
+<img src="https://user-images.githubusercontent.com/59736592/134726581-389831e0-cee6-480e-9b91-3d6ac90432bd.png" alt = "T7_Induction" width = "300">
