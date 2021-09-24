@@ -3,14 +3,14 @@ Restriction digest was used to validate successful assembly of a plasmid (pɸ29)
 
 <img src="https://user-images.githubusercontent.com/59736592/134722281-fb970195-8d33-4ea1-a20c-257e4c466547.png" alt = "pPhi29_Gel_Validation" width = "300">
 
-**Figure 1. Restriction Digest Validation of pɸ29**. 
+**Figure 1. Restriction Digest Validation of pɸ29**<br/> 
 The final plasmid was validated by restriction digest with MlyI. Lane 1: 100 bp ladder, Lane 2: MlyI digest of pɸ29 plasmid, corrected with primers carrying missing sequence. Lane 3: MlyI digest of uncorrected pɸ29 plasmid. Lane 4: 1 kb ladder. 
 
 pɸ29, which expresses the Phi29 TP, DNAP, SSBP, and DSBP under control of a lac-inducible promoter was transformed into E. coli strain DH5α. Induction of these cells with variable concentration of the lactose analog IPTG showed the relative burden posed to host cells by the Phi29 proteins.
 
 <img src="https://user-images.githubusercontent.com/59736592/134724297-9e997630-292a-4cfd-8386-7e53cbc5e1b4.png" alt = "Induction_DH5a" width = "300">
 
-**Figure 2. Doubling Time of Cells Expressing pɸ29**. 
+**Figure 2. Doubling Time of Cells Expressing pɸ29**<br/> 
 Growth of pɸ29 cells (blue) when induced at 0, 0.05, 0.1, 0.5, and 1.0 mM IPTG compared to growth of DH5α cells (orange) at 0, 0.1, and 1.0 mM IPTG.
 
 As IPTG induction level increased from 0 mM to 0.01 mM, doubling time slowed by 14.6%, from 144.4 ± 1.96 min to 165.6 ± 6.53 min. Increasing IPTG concentration to 0.05, 0.1, 0.5, and 1.0 mM slowed doubling time to 172.85 ± 3.11 min (19.7% slower), 174.84 ± 0.61 min (21.1% slower), 176.60 ± 6.55 min (22.3% slower) and 179.39 ± 0.94 min (24.2% slower). Successfully expressing Phi29 proteins may be complicated by their potential for toxicity to the host. Depending on a protein’s characteristics and function, overexpressing recombinant proteins in E. coli can interfere with cell survival and proliferation5. Increased doubling time indicates that Phi29 cells divert metabolic resources away from normal replication to make Phi29 proteins. The minor increase in doubling time from 0.1 to 1.0 mM suggests that pɸ29 expression reached saturation at 0.1 mM IPTG.
@@ -25,7 +25,7 @@ The 50% inhibitory concentration of DHFR R67 to trimethoprim is 5.8 g/L6. If pL 
 
 <img src="https://user-images.githubusercontent.com/59736592/134725506-5b72b44d-7a55-430a-b908-e2cdf2cf6303.png" alt = "pL_GEL" width = "300">
 
-**Figure 3. Colony PCR for DHFR R67**
+**Figure 3. Colony PCR for DHFR R67**<br/>
 Lane 1: 100 bp ladder. 
 Lane 2: no template negative control. 
 Lane 3: 0.1 mM IPTG/5ug/mL Tri /pL++. 
@@ -37,7 +37,7 @@ The Phi29 TP, DSBP, and SSBP were ligated into an alternative plasmid backbone, 
 
 <img src="https://user-images.githubusercontent.com/59736592/134726581-389831e0-cee6-480e-9b91-3d6ac90432bd.png" alt = "T7_Induction" width = "300">
 
-**Figure 4. Doubling Time of T7 Cells Expressing pGSɸ29**. 
+**Figure 4. Doubling Time of T7 Cells Expressing pGSɸ29**<br/> 
 Growth of pɸ29 cells (blue) when induced at 0, 0.01, 0.05, 0.1, 0.5, and 1.0 mM IPTG compared to growth of DH5α cells (orange) at 0, 0.1, and 1.0 mM IPTG. 
 
 T7 cells expressing pGSɸ29 were then induced at increasing concentrations of IPTG to express the Phi29 proteins. As IPTG induction level increased from 0 mM to 0.01 mM, doubling time slowed by 7.36%, from 106.1 ± 2.49 min to 113.9 ± 0.98 min. Increasing IPTG concentration to 0.05, 0.1, 0.5, and 1.0 mM slowed doubling time to 110.28 ± 5.08 min (3.92% slower), 111.94 ± 3.19 min (5.49% slower), 114.92 ± 3.50 min (8.30% slower) and 114.45 ± 3.00 min (7.85% slower).
@@ -49,7 +49,7 @@ To determine whether the Phi29 proteins were actually being expressed in T7, a p
 
 <img src="https://user-images.githubusercontent.com/59736592/134738122-de577b82-02d7-4786-be31-b99fe76c35e1.png" alt = "T7_Protein_Gel" width = "300">
 
-**Figure 6. Protein Gel of T7 Cells Expressing pGSɸ29**. 
+**Figure 6. Protein Gel of T7 Cells Expressing pGSɸ29**<br/> 
 induced at 0, 0.1, and 1.0 mM IPTG. T7 cells not expressing pGSɸ29 was run as a control. Far left and right lanes are the Precision Plus Protein Ladder, and bands at the expected molecular weights are marked: DSBP: 12 kD, SSBP: 13 kD, TP: 31 kD, GST-tagged DNAP: 95 kD.  
 
 
