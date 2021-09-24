@@ -1,12 +1,12 @@
 # Results
-Restriction digest was used to validate successful assembly of a plasmid (pɸ29) carrying the Phi29 TP, DNAP, SSBP, and DSBP. Complete sequencing of our initial assembly revealed a 70 base-pair deletion. To fix the deletion, the plasmid was  PCR amplified with restriction sites, and the 70 base-pair segment was inserted by digest and ligation. Correct assembly was validated by gel electrophoresis of a MlyI digest on the original and fixed plasmid (Fig 1).   
-<img src="https://user-images.githubusercontent.com/59736592/134722281-fb970195-8d33-4ea1-a20c-257e4c466547.png" alt = "pPhi29_Gel_Validation" width = "300">
+Restriction digest was used to validate successful assembly of a plasmid (pɸ29) carrying the Phi29 TP, DNAP, SSBP, and DSBP. Complete sequencing of our initial assembly revealed a 70 base-pair deletion. To fix the deletion, the plasmid was  PCR amplified with restriction sites, and the 70 base-pair segment was inserted by digest and ligation. Correct assembly was validated by gel electrophoresis of a MlyI digest on the original and fixed plasmid (Fig 1).     
+<img src="https://user-images.githubusercontent.com/59736592/134722281-fb970195-8d33-4ea1-a20c-257e4c466547.png" alt = "pPhi29_Gel_Validation" width = "300">. 
 **Figure 1. Restriction Digest Validation of pɸ29**
 The final plasmid was validated by restriction digest with MlyI. Lane 1: 100 bp ladder, Lane 2: MlyI digest of pɸ29 plasmid, corrected with primers carrying missing sequence. Lane 3: MlyI digest of uncorrected pɸ29 plasmid. Lane 4: 1 kb ladder. 
 
 
-pɸ29, which expresses the Phi29 TP, DNAP, SSBP, and DSBP under control of a lac-inducible promoter was transformed into E. coli strain DH5α. Induction of these cells with variable concentration of the lactose analog IPTG showed the relative burden posed to host cells by the Phi29 proteins.
-<img src="https://user-images.githubusercontent.com/59736592/134724297-9e997630-292a-4cfd-8386-7e53cbc5e1b4.png" alt = "Induction_DH5a" width = "300">
+pɸ29, which expresses the Phi29 TP, DNAP, SSBP, and DSBP under control of a lac-inducible promoter was transformed into E. coli strain DH5α. Induction of these cells with variable concentration of the lactose analog IPTG showed the relative burden posed to host cells by the Phi29 proteins.  
+<img src="https://user-images.githubusercontent.com/59736592/134724297-9e997630-292a-4cfd-8386-7e53cbc5e1b4.png" alt = "Induction_DH5a" width = "300">. 
 **Figure 2. Doubling Time of Cells Expressing pɸ29.**
 Growth of pɸ29 cells (blue) when induced at 0, 0.05, 0.1, 0.5, and 1.0 mM IPTG compared to growth of DH5α cells (orange) at 0, 0.1, and 1.0 mM IPTG.
 
@@ -14,12 +14,12 @@ As IPTG induction level increased from 0 mM to 0.01 mM, doubling time slowed by 
 
 Cells induced at varying levels of IPTG were then transformed with a linear plasmid (pL) carrying DHFR R67, a variant of dihydrofolate reductase which confers high levels of resistance to the antibiotic trimethoprim6. Cells both with (pL+) and without  pL (pL-), were plated on media with IPTG concentrations corresponding to induction level. A negative control not transformed with pL was also plated on each IPTG condition. As expected, pL+ and pL- cells plated on 10 ug/mL trimethoprim and without IPTG did not grow. Although growth was observed on one of four replica plates from the 10 ug/mL trimethoprim/1.0mM IPTG/ pL+ condition, no growth was seen on the other 3 plates.
 
-Significant growth on all four replica plates was only observed on the 5 ug/mL trimethoprim and 0.1 mM IPTG condition, both with and without pL.
-<img src="https://user-images.githubusercontent.com/59736592/134725362-e8cce6fe-1c5c-4e57-9ed3-69dbef4ec192.png" alt = "Plate_Growth_Table1" width = "300">
+Significant growth on all four replica plates was only observed on the 5 ug/mL trimethoprim and 0.1 mM IPTG condition, both with and without pL.   
+<img src="https://user-images.githubusercontent.com/59736592/134725362-e8cce6fe-1c5c-4e57-9ed3-69dbef4ec192.png" alt = "Plate_Growth_Table1" width = "300">. 
 
 The 50% inhibitory concentration of DHFR R67 to trimethoprim is 5.8 g/L6. If pL replication by Phi29 proteins were successful, the expressed DHFR R67 would easily confer resistance of 10 ug/mL (0.01 g/L). The growth observed at lower trimethoprim resistance regardless of pL presence suggests a high frequency of escape mutations, in which the host naturally acquires resistance to the antibiotic through genomic mutations rather than expressing the plasmid carrying resistance. This was confirmed by running a colony PCR (Fig. 4) to assess the presence of pL in the surviving colonies. A colony from each of the conditions under which growth was observed was tested. The inverted terminal repeats in the Phi29 ORIs make PCR amplification of the entire pL impossible, so a PCR of the middle sequence, DHFR R67, was done and the product was visualized on a gel. Negative PCR results from all colonies verified that cells acquired resistance to trimethoprim through a separate mechanism independent of pL replication by Phi29 proteins. Colony PCR also verified that pL did not integrate into the genome, as DFHR R67 would have been amplified off the 0.1 mM IPTG -pL colonies.
 
-<img src="https://user-images.githubusercontent.com/59736592/134725506-5b72b44d-7a55-430a-b908-e2cdf2cf6303.png" alt = "pL_GEL" width = "300">
+<img src="https://user-images.githubusercontent.com/59736592/134725506-5b72b44d-7a55-430a-b908-e2cdf2cf6303.png" alt = "pL_GEL" width = "300">. 
 **Figure 3. Colony PCR for DHFR R67**
 Lane 1: 100 bp ladder. 
 Lane 2: no template negative control. 
@@ -30,7 +30,7 @@ Lane 6: DHFR R67 template positive control
 
 The Phi29 TP, DSBP, and SSBP were ligated into an alternative plasmid backbone, pGS21a, which carried the wildtype ɸ29 DNAP with 6XHis and GST tags to enable easier purification. In the resulting plasmid, pGSɸ29, expression of the Phi29 proteins is under control of a T7 promoter. pGS21a was transformed into E. coli strain T7 express (C2566H), which expresses T7 polymerase in the lac operon. T7 express is also optimized for protein expression.
 
-<img src="https://user-images.githubusercontent.com/59736592/134726581-389831e0-cee6-480e-9b91-3d6ac90432bd.png" alt = "T7_Induction" width = "300">
+<img src="https://user-images.githubusercontent.com/59736592/134726581-389831e0-cee6-480e-9b91-3d6ac90432bd.png" alt = "T7_Induction" width = "300">. 
 **Figure 4. Doubling Time of T7 Cells Expressing pGSɸ29**
 Growth of pɸ29 cells (blue) when induced at 0, 0.01, 0.05, 0.1, 0.5, and 1.0 mM IPTG compared to growth of DH5α cells (orange) at 0, 0.1, and 1.0 mM IPTG. 
 
