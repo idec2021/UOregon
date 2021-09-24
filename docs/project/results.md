@@ -15,25 +15,18 @@ As IPTG induction level increased from 0 mM to 0.01 mM, doubling time slowed by 
 Cells induced at varying levels of IPTG were then transformed with a linear plasmid (pL) carrying DHFR R67, a variant of dihydrofolate reductase which confers high levels of resistance to the antibiotic trimethoprim6. Cells both with (pL+) and without  pL (pL-), were plated on media with IPTG concentrations corresponding to induction level. A negative control not transformed with pL was also plated on each IPTG condition. As expected, pL+ and pL- cells plated on 10 ug/mL trimethoprim and without IPTG did not grow. Although growth was observed on one of four replica plates from the 10 ug/mL trimethoprim/1.0mM IPTG/ pL+ condition, no growth was seen on the other 3 plates.
 
 Significant growth on all four replica plates was only observed on the 5 ug/mL trimethoprim and 0.1 mM IPTG condition, both with and without pL.
+<img src="https://user-images.githubusercontent.com/59736592/134725362-e8cce6fe-1c5c-4e57-9ed3-69dbef4ec192.png" alt = "Plate_Growth_Table1" width = "300">
 
-Table 1. Number of replica plates on which growth was observed with varying induction and selection levels
-pL	0 IPTG / 10 ug/mL TRI		IPTG / 
-5 ug/mL TRI		IPTG /
-10 ug/mL TRI
--	0	4	0
-+	0	4	1
-![image](https://user-images.githubusercontent.com/59736592/134724870-33ea32e8-866e-4213-95ad-c21c4c3003f4.png)
+The 50% inhibitory concentration of DHFR R67 to trimethoprim is 5.8 g/L6. If pL replication by Phi29 proteins were successful, the expressed DHFR R67 would easily confer resistance of 10 ug/mL (0.01 g/L). The growth observed at lower trimethoprim resistance regardless of pL presence suggests a high frequency of escape mutations, in which the host naturally acquires resistance to the antibiotic through genomic mutations rather than expressing the plasmid carrying resistance. This was confirmed by running a colony PCR (Fig. 4) to assess the presence of pL in the surviving colonies. A colony from each of the conditions under which growth was observed was tested. The inverted terminal repeats in the Phi29 ORIs make PCR amplification of the entire pL impossible, so a PCR of the middle sequence, DHFR R67, was done and the product was visualized on a gel. Negative PCR results from all colonies verified that cells acquired resistance to trimethoprim through a separate mechanism independent of pL replication by Phi29 proteins. Colony PCR also verified that pL did not integrate into the genome, as DFHR R67 would have been amplified off the 0.1 mM IPTG -pL colonies.
 
-
-
-
-
-
-
-
-
-
-
+<img src="https://user-images.githubusercontent.com/59736592/134725506-5b72b44d-7a55-430a-b908-e2cdf2cf6303.png" alt = "pL_GEL" width = "300">
+**Figure 4. Colony PCR for DHFR R67**
+Lane 1: 100 bp ladder. 
+Lane 2: no template negative control. 
+Lane 3: 0.1 mM IPTG/5ug/mL Tri /pL++. 
+Lane 4: 1.0 mM IPTG/10 ug/mL/pL+. 
+Lane 5: 0.1 mM IPTG/5 ug/mL/pL-. 
+Lane 6: DHFR R67 template positive control
 
 
 
