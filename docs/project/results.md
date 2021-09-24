@@ -35,9 +35,14 @@ Lane 6: DHFR R67 template positive control
 
 The Phi29 TP, DSBP, and SSBP were ligated into an alternative plasmid backbone, pGS21a, which carried the wildtype ɸ29 DNAP with 6XHis and GST tags to enable easier purification. In the resulting plasmid, pGSɸ29, expression of the Phi29 proteins is under control of a T7 promoter. pGS21a was transformed into E. coli strain T7 express (C2566H), which expresses T7 polymerase in the lac operon. T7 express is also optimized for protein expression.
 
+<img width="239" alt="REMIX_pGS21a-phi29-ligation" src="https://user-images.githubusercontent.com/59736592/134743679-b2f427f8-4778-4e4b-a7b0-5010cbbd4bac.png">
+
+**Figure 4. Restriction Digest Validation of pGSɸ29**<br/> 
+The reconstructed pGSɸ29 plasmid was validated by restriction digest with KpnI and NdeI. Lane 1: 1 kb ladder, Lane 2: KpnI and NdeI digest of pɸ29 plasmid. Lane 3: KpnI/NdeI digest of pGSɸ29 plasmid. 
+
 <img src="https://user-images.githubusercontent.com/59736592/134726581-389831e0-cee6-480e-9b91-3d6ac90432bd.png" alt = "T7_Induction" width = "300">
 
-**Figure 4. Doubling Time of T7 Cells Expressing pGSɸ29**<br/> 
+**Figure 5. Doubling Time of T7 Cells Expressing pGSɸ29**<br/> 
 Growth of pɸ29 cells (blue) when induced at 0, 0.01, 0.05, 0.1, 0.5, and 1.0 mM IPTG compared to growth of DH5α cells (orange) at 0, 0.1, and 1.0 mM IPTG. 
 
 T7 cells expressing pGSɸ29 were then induced at increasing concentrations of IPTG to express the Phi29 proteins. As IPTG induction level increased from 0 mM to 0.01 mM, doubling time slowed by 7.36%, from 106.1 ± 2.49 min to 113.9 ± 0.98 min. Increasing IPTG concentration to 0.05, 0.1, 0.5, and 1.0 mM slowed doubling time to 110.28 ± 5.08 min (3.92% slower), 111.94 ± 3.19 min (5.49% slower), 114.92 ± 3.50 min (8.30% slower) and 114.45 ± 3.00 min (7.85% slower).
@@ -51,9 +56,5 @@ To determine whether the Phi29 proteins were actually being expressed in T7, a p
 
 **Figure 6. Protein Gel of T7 Cells Expressing pGSɸ29**<br/> 
 induced at 0, 0.1, and 1.0 mM IPTG. T7 cells not expressing pGSɸ29 was run as a control. Far left and right lanes are the Precision Plus Protein Ladder, and bands at the expected molecular weights are marked: DSBP: 12 kD, SSBP: 13 kD, TP: 31 kD, GST-tagged DNAP: 95 kD.  
-
-
-
-
 
 
