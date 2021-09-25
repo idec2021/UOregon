@@ -1,9 +1,12 @@
-# Results
+
+**<span style="color:royalblue"> Results </span>**<br/> 
 Restriction digest was used to validate successful assembly of a plasmid (pɸ29) carrying the Phi29 TP, DNAP, SSBP, and DSBP. Complete sequencing of our initial assembly revealed a 70 base-pair deletion. To fix the deletion, the plasmid was  PCR amplified with restriction sites, and the 70 base-pair segment was inserted by digest and ligation. Correct assembly was validated by gel electrophoresis of a MlyI digest on the original and fixed plasmid (Fig 1).
+
+**<span style="color:royalblue"> Plasmid Validation </span>**<br/> 
 
 <img src="https://user-images.githubusercontent.com/59736592/134722281-fb970195-8d33-4ea1-a20c-257e4c466547.png" alt = "pPhi29_Gel_Validation" width = "300">
 
-**<span style="color:royalblue"> Figure 1. Restriction Digest Validation of pɸ29 </span>**<br/> 
+**Figure 1. Restriction Digest Validation of pɸ29**<br/> 
 The final plasmid was validated by restriction digest with MlyI. Lane 1: 100 bp ladder, Lane 2: MlyI digest of pɸ29 plasmid, corrected with primers carrying missing sequence. Lane 3: MlyI digest of uncorrected pɸ29 plasmid. Lane 4: 1 kb ladder. 
 
 pɸ29, which expresses the Phi29 TP, DNAP, SSBP, and DSBP under control of a lac-inducible promoter was transformed into E. coli strain DH5α. Induction of these cells with variable concentration of the lactose analog IPTG showed the relative burden posed to host cells by the Phi29 proteins.
