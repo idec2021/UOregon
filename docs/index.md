@@ -1,5 +1,5 @@
 # iDEC 2021 | UOregon
 
-This wiki template was built using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/). You are by no means confined to use this template. In fact, you are encouraged to build your own unique **static site** that best suits your project, and you are free to use any framework you like.
+<img width="647" alt="Team_Photo" src="https://user-images.githubusercontent.com/59736592/134821897-9f563b4e-5b3d-46b2-aaae-2dbf4ea68ab5.png">
 
-Should you decide to use this wiki, however, we have a [tutorial](https://wiki.idec.io/team_wiki/mkdocs.html) to walk you through the basics.
+DiversiPhi29: A system for the continuous directed evolution of biomolecules
