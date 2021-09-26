@@ -1,6 +1,6 @@
 # <b>Results</b>
 ## <span style="color:royalblue"> **Validation of Parts: pɸ29** </span>
-Restriction digest was used to validate successful assembly of a plasmid (pɸ29) carrying the Phi29 TP, DNAP, SSBP, and DSBP. Complete sequencing of our initial assembly revealed a 70 base-pair deletion. To fix the deletion, the plasmid was  PCR amplified with restriction sites, and the 70 base-pair segment was inserted by digest and ligation. Correct assembly was validated by gel electrophoresis of a MlyI digest on the original and fixed plasmid.
+Restriction digest was used to validate successful assembly of a plasmid [pɸ29](https://benchling.com/calinplesa/f/lib_iPHSZtvU-phi29/seq_im7eHcq3-phi29_plasmid_real_cpfix/edit) carrying the Phi29 TP, DNAP, SSBP, and DSBP. Complete sequencing of our initial assembly revealed a 70 base-pair deletion. To fix the deletion, the plasmid was  PCR amplified with restriction sites, and the 70 base-pair segment was inserted by digest and ligation. Correct assembly was validated by gel electrophoresis of a MlyI digest on the original and fixed plasmid.
 
 <img src="https://user-images.githubusercontent.com/59736592/134722281-fb970195-8d33-4ea1-a20c-257e4c466547.png" alt = "pPhi29_Gel_Validation" width = "300">
 
@@ -40,7 +40,7 @@ Lane 6: DHFR R67 template positive control
 
 ## <span style="color:royalblue"> **Validation of Parts: pGSɸ29** </span>
 
-The Phi29 TP, DSBP, and SSBP were ligated into an alternative plasmid backbone, pGS21a, which carried the wildtype ɸ29 DNAP with 6XHis and GST tags to enable easier purification. In the resulting plasmid, [pGSɸ29](https://benchling.com/s/seq-pSqC9fjRFhvl5Rw8RFIG), expression of the Phi29 proteins is under control of a T7 promoter. pGS21a was transformed into *E. coli* strain T7 express (C2566H), which expresses T7 polymerase in the lac operon. T7 express is also optimized for protein expression.
+The Phi29 TP, DSBP, and SSBP were ligated into an alternative plasmid backbone, [pGS21a](https://benchling.com/s/seq-amYLb0fQvSCUsYLWSWoS), which carried the wildtype ɸ29 DNAP with 6XHis and GST tags to enable easier purification. In the resulting plasmid, [pGSɸ29](https://benchling.com/s/seq-pSqC9fjRFhvl5Rw8RFIG), expression of the Phi29 proteins is under control of a T7 promoter. pGS21a was transformed into *E. coli* strain T7 express (C2566H), which expresses T7 polymerase in the lac operon. T7 express is also optimized for protein expression.
 
 <img width="247" alt="REMIX_pGS21a_phi29" src="https://user-images.githubusercontent.com/59736592/134743938-32fdc58b-6bdc-46a9-99cd-d754d94ca064.png">
 
