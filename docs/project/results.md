@@ -1,13 +1,13 @@
-
-**<span style="color:royalblue"> Results </span>**<br/> 
+# <span style="color:royalblue"> **Results** </span>
+## <span style="color:royalblue"> **Validation of Parts** </span>
 Restriction digest was used to validate successful assembly of a plasmid (pɸ29) carrying the Phi29 TP, DNAP, SSBP, and DSBP. Complete sequencing of our initial assembly revealed a 70 base-pair deletion. To fix the deletion, the plasmid was  PCR amplified with restriction sites, and the 70 base-pair segment was inserted by digest and ligation. Correct assembly was validated by gel electrophoresis of a MlyI digest on the original and fixed plasmid (Fig 1).
-
-**<span style="color:royalblue"> Plasmid Validation </span>**<br/> 
 
 <img src="https://user-images.githubusercontent.com/59736592/134722281-fb970195-8d33-4ea1-a20c-257e4c466547.png" alt = "pPhi29_Gel_Validation" width = "300">
 
 **Figure 1. Restriction Digest Validation of pɸ29**<br/> 
 The final plasmid was validated by restriction digest with MlyI. Lane 1: 100 bp ladder, Lane 2: MlyI digest of pɸ29 plasmid, corrected with primers carrying missing sequence. Lane 3: MlyI digest of uncorrected pɸ29 plasmid. Lane 4: 1 kb ladder. 
+
+## <span style="color:royalblue"> **Metabolic Burden of Phi29 Proteins** </span>
 
 pɸ29, which expresses the Phi29 TP, DNAP, SSBP, and DSBP under control of a lac-inducible promoter was transformed into E. coli strain DH5α. Induction of these cells with variable concentration of the lactose analog IPTG showed the relative burden posed to host cells by the Phi29 proteins.
 
@@ -17,6 +17,8 @@ pɸ29, which expresses the Phi29 TP, DNAP, SSBP, and DSBP under control of a lac
 Growth of pɸ29 cells (blue) when induced at 0, 0.05, 0.1, 0.5, and 1.0 mM IPTG compared to growth of DH5α cells (orange) at 0, 0.1, and 1.0 mM IPTG.
 
 As IPTG induction level increased from 0 mM to 0.01 mM, doubling time slowed by 14.6%, from 144.4 ± 1.96 min to 165.6 ± 6.53 min. Increasing IPTG concentration to 0.05, 0.1, 0.5, and 1.0 mM slowed doubling time to 172.85 ± 3.11 min (19.7% slower), 174.84 ± 0.61 min (21.1% slower), 176.60 ± 6.55 min (22.3% slower) and 179.39 ± 0.94 min (24.2% slower). Successfully expressing Phi29 proteins may be complicated by their potential for toxicity to the host. Depending on a protein’s characteristics and function, overexpressing recombinant proteins in E. coli can interfere with cell survival and proliferation5. Increased doubling time indicates that Phi29 cells divert metabolic resources away from normal replication to make Phi29 proteins. The minor increase in doubling time from 0.1 to 1.0 mM suggests that pɸ29 expression reached saturation at 0.1 mM IPTG.
+
+## <span style="color:royalblue"> **Replication of linear plasmid by Phi29 proteins** </span>
 
 Cells induced at varying levels of IPTG were then transformed with a linear plasmid (pL) carrying DHFR R67, a variant of dihydrofolate reductase which confers high levels of resistance to the antibiotic trimethoprim6. Cells both with (pL+) and without  pL (pL-), were plated on media with IPTG concentrations corresponding to induction level. A negative control not transformed with pL was also plated on each IPTG condition. As expected, pL+ and pL- cells plated on 10 ug/mL trimethoprim and without IPTG did not grow. Although growth was observed on one of four replica plates from the 10 ug/mL trimethoprim/1.0mM IPTG/ pL+ condition, no growth was seen on the other 3 plates.
 
@@ -36,8 +38,9 @@ Lane 4: 1.0 mM IPTG/10 ug/mL/pL+.
 Lane 5: 0.1 mM IPTG/5 ug/mL/pL-. 
 Lane 6: DHFR R67 template positive control
 
-The Phi29 TP, DSBP, and SSBP were ligated into an alternative plasmid backbone, pGS21a, which carried the wildtype ɸ29 DNAP with 6XHis and GST tags to enable easier purification. In the resulting plasmid, pGSɸ29, expression of the Phi29 proteins is under control of a T7 promoter. pGS21a was transformed into E. coli strain T7 express (C2566H), which expresses T7 polymerase in the lac operon. T7 express is also optimized for protein expression.
+## <span style="color:royalblue"> **Validation of Parts: pGSɸ29** </span>
 
+The Phi29 TP, DSBP, and SSBP were ligated into an alternative plasmid backbone, pGS21a, which carried the wildtype ɸ29 DNAP with 6XHis and GST tags to enable easier purification. In the resulting plasmid, pGSɸ29, expression of the Phi29 proteins is under control of a T7 promoter. pGS21a was transformed into *E. coli* strain T7 express (C2566H), which expresses T7 polymerase in the lac operon. T7 express is also optimized for protein expression.
 
 <img width="247" alt="REMIX_pGS21a_phi29" src="https://user-images.githubusercontent.com/59736592/134743938-32fdc58b-6bdc-46a9-99cd-d754d94ca064.png">
 
@@ -45,6 +48,8 @@ The Phi29 TP, DSBP, and SSBP were ligated into an alternative plasmid backbone, 
 The reconstructed pGSɸ29 plasmid was validated by restriction digest with KpnI and NdeI. Lane 1: 1 kb ladder, Lane 2: KpnI and NdeI digest of pɸ29 plasmid. Lane 3: KpnI/NdeI digest of pGSɸ29 plasmid. 
 
 <img src="https://user-images.githubusercontent.com/59736592/134726581-389831e0-cee6-480e-9b91-3d6ac90432bd.png" alt = "T7_Induction" width = "300">
+
+## <span style="color:royalblue"> **Metabolic Burden of Phi29 Proteins in T7** </span>
 
 **Figure 5. Doubling Time of T7 Cells Expressing pGSɸ29**<br/> 
 Growth of pɸ29 cells (blue) when induced at 0, 0.01, 0.05, 0.1, 0.5, and 1.0 mM IPTG compared to growth of DH5α cells (orange) at 0, 0.1, and 1.0 mM IPTG. 
@@ -61,5 +66,3 @@ To determine whether the Phi29 proteins were actually being expressed in T7, a p
 **Figure 6. Protein Gel of T7 Cells Expressing pGSɸ29**<br/> 
 induced at 0, 0.1, and 1.0 mM IPTG. T7 cells not expressing pGSɸ29 was run as a control. Far left and right lanes are the Precision Plus Protein Ladder, and bands at the expected molecular weights are marked: DSBP: 12 kD, SSBP: 13 kD, TP: 31 kD, GST-tagged DNAP: 95 kD.  
 
-
-<img width="247" alt="REMIX_pGS21a_phi29" src="https://user-images.githubusercontent.com/59736592/134743938-32fdc58b-6bdc-46a9-99cd-d754d94ca064.png">
