@@ -1,6 +1,6 @@
 # <b>Results</b>
 ## <span style="color:royalblue"> **Validation of Parts: pɸ29** </span>
-Restriction digest was used to validate successful assembly of a plasmid (pɸ29) carrying the Phi29 TP, DNAP, SSBP, and DSBP. Complete sequencing of our initial assembly revealed a 70 base-pair deletion. To fix the deletion, the plasmid was  PCR amplified with restriction sites, and the 70 base-pair segment was inserted by digest and ligation. Correct assembly was validated by gel electrophoresis of a MlyI digest on the original and fixed plasmid (Fig 1).
+Restriction digest was used to validate successful assembly of a plasmid (pɸ29) carrying the Phi29 TP, DNAP, SSBP, and DSBP. Complete sequencing of our initial assembly revealed a 70 base-pair deletion. To fix the deletion, the plasmid was  PCR amplified with restriction sites, and the 70 base-pair segment was inserted by digest and ligation. Correct assembly was validated by gel electrophoresis of a MlyI digest on the original and fixed plasmid.
 
 <img src="https://user-images.githubusercontent.com/59736592/134722281-fb970195-8d33-4ea1-a20c-257e4c466547.png" alt = "pPhi29_Gel_Validation" width = "300">
 
