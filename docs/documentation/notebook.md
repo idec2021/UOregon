@@ -841,7 +841,7 @@ Conc : 137.5 ng/uL
 ## September 14th
 Error Prone PCR Mutagenesis of Inserts 
 Tubes : 
-| Insert | Taq PCR Buffer | dNTP mix | 55 mM MgCl2 | 0.01 mM MnCl2 | FWD Primer | REV Primer | Taq Polymerase | Plasmid DNA | H2O |
+| Insert | Taq PCR Buffer | dNTP mix | 55 mM MgCl2 | 0.01 mM or 0.15 mM MnCl2 | FWD Primer | REV Primer | Taq Polymerase | Plasmid DNA | H2O |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
 | Whole Insert | 10 uL | 2 uL | 10 uL | 1 or 15 uL | 3 uL | 3 uL | 1 uL | 5 uL DNA (5 ng)| 65 or 51 uL H2O |
 | TPDNAP | 10 uL | 2 uL | 10 uL | 1 or 15 uL | 3 uL | 3 uL | 1 uL | 3 uL DNA (3 ng)| 67 or 53 uL H2O |
