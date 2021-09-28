@@ -1055,13 +1055,13 @@ Cleanup Elute 21 uL
 
 Conc. : 
 
-TP Mut : ng/uL
+TP Mut : 69.4 ng/uL
 
-TP Mut backbone : ng/uL
+TP Mut backbone : 73.3 ng/uL
 
-Remix after TP : ng/uL
+Remix after TP : 73.2 ng/uL
 
-Remix after DS : ng/uL 
+Remix after DS : 79.4 ng/uL 
 
 - Ligate Insert and TPDP mutagens to respective backbones 
 
@@ -1090,6 +1090,14 @@ TPDP : 0.36 pmol, 640 ng DNA, 14 uL
 Total : 20 uL
 
 Incubation : 16C 24hr, 65C 10 min., 10C forever
+
+Cleanup GGA Ligation Elute 15 uL
+
+Conc. : 
+
+Whole Insert Mut : 28.1 ng/uL
+
+TPDNAP Mut : 43.7 ng/uL 
 
 
 
