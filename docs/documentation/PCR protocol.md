@@ -29,9 +29,10 @@ Go to step 2, 35X
 
 12C forever
 
+Cleanup and Column Purify using NEB Kit 
+
 ------------------------------------------------------------------------------------ 
 
-Cleanup and Column Purify using NEB Kit 
 
 ### For Phusion set up reaction as follows in this order :
 | H2O | Mastermix (Phusion) | FWD Primer | REV Primer | Template DNA | Total | 
@@ -56,6 +57,8 @@ Go to step 2, 35X
 72C for 10 min 
 
 4C forever
+
+Cleanup and Column Purify using NEB Kit 
 
 
 
