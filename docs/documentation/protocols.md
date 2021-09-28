@@ -5,7 +5,7 @@
 
 [Colony PCR protocol](https://github.com/idec2021/UOregon/blob/a888262e445b475b1efdfb5fdcb20478c20796b5/docs/documentation/Colony%20PCR.md)
 
-[Error-Prone PCR protocol]()
+[Error-Prone PCR protocol](https://github.com/idec2021/UOregon/blob/5a2bcdceff25bf1517e5bdbcdc58781e406e4ef5/docs/documentation/Error%20Prone%20PCR.md)
 
 ## Run a Gel 
 [DNA Gel Electrophoresis Protocol](https://github.com/idec2021/UOregon/blob/2b9cd055b573f86dd3fb47c59a93467b84a29f4c/docs/documentation/DNA%20Gel.md)
