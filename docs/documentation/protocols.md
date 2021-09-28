@@ -30,7 +30,7 @@
 ## Transformation
 [Electroporation into DH5a Protocol](https://github.com/idec2021/UOregon/blob/bf711403db1903ef54dd905520d94ff23040e5c8/docs/documentation/Electroporation.md)
 
-[Chemical into T7 Express Protocol](https://github.com/idec2021/UOregon/blob/11188c26bfd462c4dc6dbc1b995fe172df7585ed/docs/documentation/Chemically%20%20Comp.md)
+[Chemically Competent into T7 Express Protocol](https://github.com/idec2021/UOregon/blob/11188c26bfd462c4dc6dbc1b995fe172df7585ed/docs/documentation/Chemically%20%20Comp.md)
 
 
 
