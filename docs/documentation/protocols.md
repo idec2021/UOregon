@@ -1,7 +1,7 @@
 # Protocols
 
 ### PCR 
-[PCR protocol](https://github.com/idec2021/UOregon/blob/1414c0c78239a36b261f316c739b7b346fc299ec/docs/documentation/PCR%20protocol.md)
+[PCR protocol](https://github.com/idec2021/UOregon/blob/adb55b624d7317c3bbac6eb6f24cbb37137b71d4/docs/documentation/PCR%20protocol.md)
 
 [Colony PCR protocol](https://github.com/idec2021/UOregon/blob/a888262e445b475b1efdfb5fdcb20478c20796b5/docs/documentation/Colony%20PCR.md)
 
