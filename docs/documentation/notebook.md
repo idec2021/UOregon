@@ -1,6 +1,6 @@
 # Lab notebook
 ## July 1st
-Golden Gate Assembly (set link to GGA protocol file) of Phi29 Terminal protein (TP) ,Single stranded binding protein (SSBP) and Double Stranded binding protein (DSBP)+pGS21a backbone with Phi29 DNA Polymerase(DNAP) 
+Golden Gate Assembly of Phi29 Terminal protein (TP) ,Single stranded binding protein (SSBP) and Double Stranded binding protein (DSBP)+pGS21a backbone with Phi29 DNA Polymerase(DNAP) 
 
 - PCR amplify fragments 
 - rSAP digestion 
@@ -48,7 +48,7 @@ Cleanup Assembly:
 Make Agar+LB plates with Carbenicillin 
 
 ## July 2nd
-Transform Phi29-pGS21a into DH5alpha using electroporation protocol(link electroporation protocol) 
+Transform Phi29-pGS21a into DH5alpha using electroporation protocol
 
 | Component   | Volume |
 | ----| ---- |
@@ -58,7 +58,7 @@ Transform Phi29-pGS21a into DH5alpha using electroporation protocol(link electro
 Plate 100uL on Carb 
 
 ## July 3rd 
-Run Colony PCR (link protocol) on 15 colonies to ensure insert length using DH5a as control 
+Run Colony PCR on 15 colonies to ensure insert length using DH5a as control 
 <img width="721" alt="Screen Shot 2021-08-05 at 11 36 10 AM" src="https://user-images.githubusercontent.com/77999251/128403234-d75b9962-cd51-46e3-a316-236d2c557678.png">
 
 Create an overnight culture with 10mL LB+ scrape 1 colony with pipette tip and eject into test tube+ 10uL Carb 
@@ -145,7 +145,7 @@ Red = T7 no plasmid
 
 <img width="807" alt="Screen Shot 2021-08-06 at 11 07 59 AM" src="https://user-images.githubusercontent.com/77999251/128553658-eff9d808-12df-4789-bb6f-4afdc2b315f9.png">
 
-Made more Linear Plasmid using PCR, digestion and ligation of fragments (link protocol)
+Made more Linear Plasmid (pL) using PCR, digestion and ligation of fragments 
 
 | Fragment | Concentration after PCR eluted into 20uL |
 | ----| ---- |
@@ -188,11 +188,11 @@ OD600 start: 0.05
 
 OD600 end: 0.7 
 
-Make cells electrocompetent(link protocol)
+Make cells electrocompetent
 
 Freeze some spun down cells in -80 
 
-Transform pL into T7 cells with pGS21a_Phi29_Col17 by Electroporation (link protocol) 
+Transform pL into T7 cells with pGS21a_Phi29_Col17 by Electroporation  
 
 Plate 100uL on compatible IPTG conc.  
 
@@ -237,7 +237,7 @@ Make more pL (non-thiolated and thiolated) using different primers
 ## July 20th
 Control for homemade electrocompetent cells/electroporation transformation efficency 
 
-Make more SEVA271 by transforming it into DH5a (link electrocomp protocol)
+Make more SEVA271 by transforming it into DH5a 
  
 Plate 100 uL on Kan diluted once with 1:10 dilution in LB
 
@@ -253,7 +253,7 @@ Order protein 1 gblock and primers from IDT to incorporate it into pGS21a_Phi29_
 ## July 23rd
 Miniprep SEVA271 plasmid 
 
-Nick SEVA271 plasmid with Nb.BtsI (link protocol)
+Nick SEVA271 plasmid with Nb.BtsI 
 
 Make T7 pGS21a_Phi29_Col17 cells electrocompetent and transform with SEVA271 
 
@@ -290,7 +290,7 @@ DpnI digest of SEVA224 backbone
 
 SEVA224 conc. elute 16 uL : 49.3
 
-BsaI digest of SEVA224 and DHFR (link protocol)
+BsaI digest of SEVA224 and DHFR 
  
  30 min. in add 1 uL rSAP to SEVA224
  
@@ -300,7 +300,7 @@ BsaI digest of SEVA224 and DHFR (link protocol)
 | ---- | ---- |
 |  37.9 ng/uL | 105.1 ng/uL |
 
-Ligated fragments together with T4 link protocol)
+Ligated fragments together with T4 
 
 ## August 3rd 
 Chemically competent transformation into T7 Express
