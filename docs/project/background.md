@@ -44,10 +44,10 @@ In future work we plan to create a system to tune and control the rate of mutage
 
 
 # <span style="color:royalblue"> **References** </span>
-(1) 	Packer, M. S.; Liu, D. R. Methods for the Directed Evolution of Proteins. Nat. Rev. Genet. 2015, 16 (7), 379–394. https://doi.org/10.1038/nrg3927.
-(2) 	Greener, A.; Callahan, M.; Jerpseth, B. An Efficient Random Mutagenesis Technique Using AnE.Coli Mutator Strain. Mol. Biotechnol. 1997, 7 (2), 189–195. https://doi.org/10.1007/BF02761755.
-(3) 	Ravikumar, A.; Arrieta, A.; Liu, C. C. An Orthogonal DNA Replication System in Yeast. Nat. Chem. Biol. 2014, 10 (3), 175–177. https://doi.org/10.1038/nchembio.1439.
-(4) 	Salas, M. Protein-Priming of Dna Replication. Annu. Rev. Biochem. 1991, 60 (1), 39–71. https://doi.org/10.1146/annurev.bi.60.070191.000351.
+(1) 	Packer, M. S.; Liu, D. R. Methods for the Directed Evolution of Proteins. Nat. Rev. Genet. 2015, 16 (7), 379–394. https://doi.org/10.1038/nrg3927.<br/> 
+(2) 	Greener, A.; Callahan, M.; Jerpseth, B. An Efficient Random Mutagenesis Technique Using AnE.Coli Mutator Strain. Mol. Biotechnol. 1997, 7 (2), 189–195. https://doi.org/10.1007/BF02761755.<br/> 
+(3) 	Ravikumar, A.; Arrieta, A.; Liu, C. C. An Orthogonal DNA Replication System in Yeast. Nat. Chem. Biol. 2014, 10 (3), 175–177. https://doi.org/10.1038/nchembio.1439.<br/> 
+(4) 	Salas, M. Protein-Priming of Dna Replication. Annu. Rev. Biochem. 1991, 60 (1), 39–71. https://doi.org/10.1146/annurev.bi.60.070191.000351.<br/> 
 (5) 	Mencia, M.; Gella, P.; Camacho, A.; de Vega, M.; Salas, M. Terminal Protein-Primed Amplification of Heterologous DNA with a Minimal Replication System Based on Phage 29. Proc. Natl. Acad. Sci. 2011, 108 (46), 18655–18660. https://doi.org/10.1073/pnas.1114397108.
 
 
