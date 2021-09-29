@@ -44,6 +44,7 @@ nav:
   - Project:
       - Background: project/background.md
       - Results: project/results.md
+      - Report: projects/docs/project/iDEC_draft3_CP2_NK3.pdf
   - Documentation:
       - Protocols: documentation/protocols.md
       - Lab notebook: documentation/notebook.md
