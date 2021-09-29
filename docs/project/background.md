@@ -39,8 +39,7 @@ Once we have established replication of a linear plasmid carrying a gene of inte
  ## <span style="color:royalblue"> **Tunable Mutagenesis** </span>
 In future work we plan to create a system to tune and control the rate of mutagenesis on a linear plasmid by alternating expression of a low and high-fidelity polymerase. Expression of each will be under control of a different inducer or repressor, such that high expression of one coincides with low expression of the other. Over several generations, a linear plasmid will alternate expression between the low and high-fidelity polymerase, such that the cumulative error rate can be controlled.
 
-<img src="https://github.com/idec2021/UOregon/files/7255235/Polymerase_ErrorRate.pdf" alt = "PolymeraseErrorRate" width = "900">
-
+<img src="https://user-images.githubusercontent.com/59736592/135354398-b9d377f7-fe24-4858-9319-24b110e9dbd1.png" alt = "PolymeraseErrorRate" width = "900">
 
 
 # <span style="color:royalblue"> **References** </span>
@@ -49,19 +48,6 @@ In future work we plan to create a system to tune and control the rate of mutage
 (3) 	Ravikumar, A.; Arrieta, A.; Liu, C. C. An Orthogonal DNA Replication System in Yeast. Nat. Chem. Biol. 2014, 10 (3), 175–177. https://doi.org/10.1038/nchembio.1439.<br/> 
 (4) 	Salas, M. Protein-Priming of Dna Replication. Annu. Rev. Biochem. 1991, 60 (1), 39–71. https://doi.org/10.1146/annurev.bi.60.070191.000351.<br/> 
 (5) 	Mencia, M.; Gella, P.; Camacho, A.; de Vega, M.; Salas, M. Terminal Protein-Primed Amplification of Heterologous DNA with a Minimal Replication System Based on Phage 29. Proc. Natl. Acad. Sci. 2011, 108 (46), 18655–18660. https://doi.org/10.1073/pnas.1114397108.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
