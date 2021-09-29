@@ -1,5 +1,8 @@
 
 # <span style="color:royalblue"> **DiversiPhi29: an orthogonal replication system for the continuous directed evolution of genes in vivo** </span>
+
+<img src="https://user-images.githubusercontent.com/59736592/135347873-8b7e1996-7f23-4342-9a72-a3dd3b4b8c49.png" alt = "DirectedEvolutionOverview" width = "900">
+
 ## <span style="color:royalblue"> **Motivation** </span>
 Biological protein-based systems have diverse applications, from targeted drug delivery to sustainable textile manufacturing. A significant barrier to using proteins in medicine and industry is that proteins have evolved to function best in a living cell from their native organism, and frequently lose function in a different context. This necessitates innovative techniques to modify and optimize natural proteins for novel functions and conditions. 
 
@@ -24,9 +27,9 @@ Orthogonal replication applied to directed evolution provides the advantages of 
 ## <span style="color:royalblue"> **Bacteriophage Phi29** </span>
 The initiation of DNA synthesis conventionally relies on priming by a short sequence of DNA or RNA, which provides a 3’ hydroxyl group for DNA Polymerase to extend from. In several phages, a terminal protein serves as a primer for genomic replication (Salas, 1991). Bacteriophage Phi29, a virus which infects *Bacillus subtilis*, represents the most extensively studied example of terminal protein-primed replication. Critical to this mechanism are the Phi29 Origins of Replication (ORIs) which flank the genome and allow cooperative binding of the Phi29 DNA Polymerase and Terminal Protein (Mencia et al, 2011). 
 
-DiversiPhi29 repurposes the transcriptional machinery of bacteriophage Phi29 for orthogonal replication, using *E. coli* as a cellular chassis. Our protein-primed replication mechanism differs from the mechanism used by the *E. coli* DNA polymerase to replicate the *E. coli* genome, which enables isolation of an error-prone Phi29 DNA Polymerase (DNAP) from the host genome. In DiversiPhi29, the Phi29 ORIs flank the gene of interest so that the Phi29 DNA Polymerase and priming Terminal Protein replicate the gene of interest as they would replicate the Phi29 genome.![Phi29 Cycle](https://user-images.githubusercontent.com/59736592/131540707-04b9f432-e0b8-47f5-83f6-0e03f48d9ae8.png)
+DiversiPhi29 repurposes the transcriptional machinery of bacteriophage Phi29 for orthogonal replication, using *E. coli* as a cellular chassis. Our protein-primed replication mechanism differs from the mechanism used by the *E. coli* DNA polymerase to replicate the *E. coli* genome, which enables isolation of an error-prone Phi29 DNA Polymerase (DNAP) from the host genome. In DiversiPhi29, the Phi29 ORIs flank the gene of interest so that the Phi29 DNA Polymerase and priming Terminal Protein replicate the gene of interest as they would replicate the Phi29 genome.
 
-
+<img src="https://user-images.githubusercontent.com/59736592/131540707-04b9f432-e0b8-47f5-83f6-0e03f48d9ae8.png" alt = "Phi29 Cycle" width = "600">
 
  
 
