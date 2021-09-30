@@ -1074,15 +1074,29 @@ Thermocycler conditions :
 
 ## September 21st 
 
-Cleanup Elute 25 uL 
+Cleanup Elute TP Mut 25 uL 
 
 Conc : 86.95 ng/uL 
 
-- PCR amplify p1 backbones ( after TP & after DS ) using Phusion
+- PCR amplify p1 backbones ( after TP & after DSBP ) using Phusion
 
 | H2O | Phusion | FWD Primer | Rev Primer | DNA | 
 | ---- | ---- | ---- | ---- | ---- |
 | 21.5 uL | 25 uL | 1.5 uL | 1.5 uL | 0.5 uL | 
+
+PCR cycling : 
+
+98C 30 sec
+
+98C 10 sec
+
+72C 15 sec (for both after TP and after DSBP)
+
+72C 3 min. (for both after TP and after DSBP)
+
+72C 10 min.
+
+4C forever 
 
 Cleanup Elute 25 uL 
 
