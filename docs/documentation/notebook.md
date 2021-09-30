@@ -290,7 +290,15 @@ Cleanup elute : 20uL each
 | ---- | ---- |
 |  70.9 ng/uL | 104.8 ng/uL |
 
-Resuspend p1 gblock gene fragment in elution buffer 
+Resuspend p1 gblock gene fragment in elution buffer:
+
+- spin down in microcentrifuge 3-5 sec
+- add 50 uL elution buffer
+- vortex brifely
+- incubate 50C for 20 min.
+- vortex 
+- final conc: 8 ng/uL 
+- dilute to 1 ng/uL
 
 ## July 27th
 Made and ran gel of DHFR(2% gel) and SEVA24( 0.8% gel) PCR to ensure correct length 
@@ -375,6 +383,24 @@ Saw growth on all Tri + Kan selection plates which means the concentration of Tr
 ## August 9th 
 PCR amplify P1 and pGS21a_Phi29 backbone 
 
+| Q5 | H2O | DNA | FWD Primer | REV Primer |
+| ---- | ---- | ---- | ---- | ---- |
+| 25 uL | 21 uL | 1 uL | 1.5 uL | 1.5 uL | 
+
+PCR cycling : 
+
+95C 1 min.
+
+95C 15 sec
+
+63C for P1, 70C for remix backbone) 15 sec
+
+72C 10 sec for P1, 1 min. 30 sec for backbone 
+
+72C 5 min. 
+
+12C forever 
+
 Cleanup elute: 20uL 
 
 | P1 | pGS21a_Phi29 (Remix) |
@@ -394,7 +420,7 @@ Remix gel ( ~ 9370 bp) :
 
 <img width="259" alt="Screen Shot 2021-08-11 at 10 26 01 AM" src="https://user-images.githubusercontent.com/77999251/129075188-112be313-f721-487b-9a4f-50df5ca6aa7e.png">
 
-- Primer dimerization shown at the bottom of the gel
+- Primer dimerization shown at the bottom of the gel 
 
 ## August 10th
 Make Overnight Culture of T7+remix cells for induction/ transformation 
