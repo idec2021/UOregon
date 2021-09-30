@@ -352,7 +352,7 @@ Conc.:
 30.7 ng/uL
 
 ## August 3rd 
-Chemically competent transformation into T7 Express
+Chemically competent transformation into T7 Express ( transformed 1 uL DHFR_SEVA224 assembly)
 
 Plated 100uL on Kan
 
