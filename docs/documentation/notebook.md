@@ -1041,7 +1041,7 @@ PaqCI Digest mutagens/ backbones
 | ---- | ---- | ---- | ---- | ---- |
 | 5 uL | 1 uL | 23.75 uL | 20 uL | 0.25 uL |
 
-37C for 1 hour, 30 min. in add rSAP to backbones to prevent self-ligation 
+37C for 1 hour, 30 min. in add rSAP to backbones to prevent self-ligation, heat inactive 65C 20 min,
 
 Cleanup Elute 21 uL
 
@@ -1203,8 +1203,49 @@ Whole Insert Mut : 28.1 ng/uL
 
 TPDNAP Mut : 43.7 ng/uL 
 
+## September 30th
+PaqCI digest of : 
+- TP Mut
+- TP Mut backbone
+- Remix for P1 after TP
+- Remix for P1 after DS
+- P1 
 
+| Cutsmart | PaqCI | H2O | TP Mut DNA | PaqCI activator |
+| ---- | ---- | ---- | ---- | ---- |
+| 5 uL | 1 uL | 23.75 uL | 20 uL | 0.25 uL |
 
+| Cutsmart | PaqCI | H2O | TP Mut Backbone  DNA | PaqCI activator |
+| ---- | ---- | ---- | ---- | ---- |
+| 5 uL | 1 uL | 23.75 uL | 20 uL | 0.25 uL |
+
+| Cutsmart | PaqCI | H2O | Remix after TP DNA | PaqCI activator |
+| ---- | ---- | ---- | ---- | ---- |
+| 5 uL | 1 uL | 23.75 uL | 20 uL | 0.25 uL |
+
+| Cutsmart | PaqCI | H2O | Remix after DS DNA | PaqCI activator |
+| ---- | ---- | ---- | ---- | ---- |
+| 5 uL | 1 uL | 23.75 uL | 20 uL | 0.25 uL |
+
+| Cutsmart | PaqCI | H2O | P1 DNA | PaqCI activator |
+| ---- | ---- | ---- | ---- | ---- |
+| 5 uL | 1 uL | 21.75 uL | 22 uL | 0.25 uL |
+
+Incubate 37 1 hour, 30 min. in add 1 uL rSAP to backbones to prevent self ligation, heat inactivate 65C 20 min.
+
+Cleanup Elute 21 uL 
+
+Conc. : 
+
+TP Mut : ng/uL
+
+TP Mut backbone : ng/uL
+
+Remix after TP : ng/uL
+
+Remix after DS : ng/uL
+
+P1 : ng/uL 
 
 
 
