@@ -853,10 +853,19 @@ Conc. : 27.4 ng/uL
 | ---- | ---- | ---- | ---- | ---- |
 | 21.5 uL | 25 uL | 1.5 uL | 1.5 uL | 0.5 uL | 
 
-Thermocycler conditions:
-Annealing temp. : 68.3C for whole insert backbone (5347 bp), 67.8C for TPDNAP backbone (6684 bp)
+PCR Cycling :
 
-Extension Time : 2 minutes for both ( Thermofisher reccomends 15-30 sec/kB ) 
+98C 30 sec 
+
+98C 10 sec
+
+68.3C for whole insert backbone (5347 bp), 67.8C for TPDNAP backbone (6684 bp) 15 sec 
+
+72C 2 min. 
+
+72C 10 min.
+
+4C forever 
 
 ## September 10th 
 Cleanup Elute 21 uL 
