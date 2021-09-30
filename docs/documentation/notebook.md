@@ -264,7 +264,25 @@ Count Colonies on SEVA271 plate and calculate transformation efficiency
 
 Test for different concentrations of Trimethoprim using SEVA224+DHFR construct :
 
-PCR amplify SEVA224 and DHFR using primers ordered off of IDT 
+PCR amplify SEVA224 and DHFR using IDT primers  
+
+| Q5 | H2O | DNA | FWD Primer | REV Primer |
+| ---- | ---- | ---- | ---- | ---- |
+| 25 uL | 21 uL | 1 uL | 1.5 uL | 1.5 uL | 
+
+PCR cycling:
+
+95C 1 min.
+
+95C 15 sec
+
+70C (for both primer sets )15 sec
+
+72C 10 sec for DHFR, 50 sec for SEVA224 
+
+72C 5 min.
+
+12C forever
 
 Cleanup elute : 20uL each 
 
@@ -288,19 +306,50 @@ DHFR (~300bp shown next to 100 bp ladder) :
 ## August 2nd  
 DpnI digest of SEVA224 backbone
 
-SEVA224 conc. elute 16 uL : 49.3
+| Cutsmart | DpnI | SEVA224 | H2O|
+| ---- | ---- | ---- | ---- | 
+| 5 uL | 1 uL | 17 uL | 27 uL | 
+
+Incubate 37C for 1 hour
+
+SEVA224 Conc. : 49.3 ng/uL
 
 BsaI digest of SEVA224 and DHFR 
  
- 30 min. in add 1 uL rSAP to SEVA224
+| Cutsmart | BsaI | SEVA224 | H2O|
+| ---- | ---- | ---- | ---- | 
+| 5 uL | 1 uL | 15 uL | 29 uL | 
+
+| Cutsmart | BsaI | DHFR | H2O|
+| ---- | ---- | ---- | ---- | 
+| 5 uL | 1 uL | 16 uL | 28 uL | 
  
- elute into 10 uL
+30 min. in add 1 uL rSAP to SEVA224
+ 
+Elute into 10 uL
  
 | SEVA224 | DHFR  |
 | ---- | ---- |
 |  37.9 ng/uL | 105.1 ng/uL |
 
 Ligated fragments together with T4 
+
+| T4 Ligase Buffer | T4 Ligase | SEVA224 (0.12 pmol) | DHFR (0.36 pmol) | H2O |
+| ---- | ---- | ---- | ---- | ---- | 
+| 2 uL | 1 uL | 8 uL | 0.7 uL | 8.3 uL |
+
+Incubate:
+16C  24 hours 
+
+65C 10 min.
+
+10C forever 
+
+CLeanup Elute 8 uL
+
+Conc.:
+
+30.7 ng/uL
 
 ## August 3rd 
 Chemically competent transformation into T7 Express
