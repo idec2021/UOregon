@@ -935,15 +935,22 @@ Tubes :
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
 | Whole Insert | 10 uL | 2 uL | 10 uL | 1 or 15 uL | 3 uL | 3 uL | 1 uL | 5 uL DNA (5 ng)| 65 or 51 uL H2O |
 | TPDNAP | 10 uL | 2 uL | 10 uL | 1 or 15 uL | 3 uL | 3 uL | 1 uL | 3 uL DNA (3 ng)| 67 or 53 uL H2O |
-| TPDNAP | 10 uL | 2 uL | 10 uL | 1 or 15 uL | 3 uL | 3 uL | 1 uL | 1.25 uL DNA (1.25 ng)| 68.75 or 54.75 uL H2O |
+| TP | 10 uL | 2 uL | 10 uL | 1 or 15 uL | 3 uL | 3 uL | 1 uL | 1.25 uL DNA (1.25 ng)| 68.75 or 54.75 uL H2O |
 
 PCR: 
-- 30s 94C
-- 30s ( insert anneal : 58C, TPDNAP anneal : 55C, TP anneal : 58C )
-- 4 min. (insert), 2 min. (TPDNAP), 1 min. (TP) 72C
-- 14-20 cycles 
-- 10 min. 72C
-- infinite hold 4C 
+ 95C 1 min.
+ 
+ 94C 30 sec
+ 
+ (insert anneal : 58C, TPDNAP anneal : 55C, TP anneal : 58C ) 30 sec 
+ 
+ 72C 4 min. (insert), 2 min. (TPDNAP), 1 min. (TP) 
+ 
+ 20 cycles 
+ 
+ 72C 10 min. 
+ 
+ 4C forever
 
 ## September 15th 
 Cleanup Elute 21 uL 
