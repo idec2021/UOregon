@@ -401,7 +401,7 @@ PCR cycling :
 
 12C forever 
 
-Cleanup elute: 20uL 
+Cleanup elute: 25uL 
 
 | P1 | pGS21a_Phi29 (Remix) |
 | ---- | ---- |
@@ -409,8 +409,14 @@ Cleanup elute: 20uL
 
 Run a gel to confirm lengths before digesting 
 
-P1 : 2% gel, 100 bp ladder 
-Remix : 0.8% gel, 1 kb ladder 
+| Ladder | Remix | P1 |
+| ---- | ---- | ---- |
+| 3 uL dye | 3 uL dye | 3 uL dye |
+| 1 uL 100 bp | 3 uL DNA | 3 uL DNA |
+| 8 uL H2O  | 6 uL H2O | 6 uL H2O |
+
+P1 : 2% gel, 100 bp ladder, ~ 300 ng
+Remix : 0.8% gel, 1 kb ladder, ~ 300 ng
 
 P1 gel (~300 bp ): 
 
@@ -420,7 +426,7 @@ Remix gel ( ~ 9370 bp) :
 
 <img width="259" alt="Screen Shot 2021-08-11 at 10 26 01 AM" src="https://user-images.githubusercontent.com/77999251/129075188-112be313-f721-487b-9a4f-50df5ca6aa7e.png">
 
-- Primer dimerization shown at the bottom of the gel 
+- Primer dimerization shown at the bottom of the gel , remix was not used 
 
 ## August 10th
 Make Overnight Culture of T7+remix cells for induction/ transformation 
