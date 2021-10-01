@@ -1,4 +1,11 @@
 # <b>Results</b>
+
+## <span style="color:royalblue"> **Objective** </span>
+
+The objective of our work was to establish orthogonal replication of a linear plasmid (pL) in *E. coli* using a minimal set of replication proteins from bacteriopage ɸ29. We first built a vector plasmid, [pɸ29](https://benchling.com/calinplesa/f/lib_iPHSZtvU-phi29/seq_im7eHcq3-phi29_plasmid_real_cpfix/edit),  carrying the genes encoding each of these proteins, and expressed it in *E. coli.*
+
+## <span style="color:royalblue"> **ɸ29 Toxicity** </span>
+
 ## <span style="color:royalblue"> **Validation of Parts: pɸ29** </span>
 Restriction digest was used to validate successful assembly of a plasmid [pɸ29](https://benchling.com/calinplesa/f/lib_iPHSZtvU-phi29/seq_im7eHcq3-phi29_plasmid_real_cpfix/edit) carrying the Phi29 TP, DNAP, SSBP, and DSBP. Complete sequencing of our initial assembly revealed a 70 base-pair deletion. To fix the deletion, the plasmid was  PCR amplified with restriction sites, and the 70 base-pair segment was inserted by digest and ligation. Correct assembly was validated by gel electrophoresis of a MlyI digest on the original and fixed plasmid.
 
