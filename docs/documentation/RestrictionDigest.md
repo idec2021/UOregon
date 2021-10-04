@@ -6,4 +6,6 @@
 
 Incubate at 37C for 1 hour 
 
+Heat inactive enzyme based on NEB list : https://www.neb.com/tools-and-resources/usage-guidelines/heat-inactivation
+
 Column Cleanup and Elute
