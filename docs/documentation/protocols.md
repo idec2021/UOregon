@@ -25,7 +25,7 @@
 [MiniPrep Protocol](https://github.com/idec2021/UOregon/blob/c26540c5c6bba80cbf7f189d9e7c7dd673989fa6/docs/documentation/MiniPrep.md)
 
 ## Pouring Plates 
-[LB+Agar+Antibiotic Plates Protocol](https://github.com/idec2021/UOregon/blob/aafc9cb7290d9789c495f3f95b73813460c98d44/docs/documentation/Plating%20Protocol.md)
+[LB+Agar+Antibiotic Plates Protocol](https://github.com/idec2021/UOregon/blob/79678ac8cdd7252db4e64511396fdf0e61af71b6/docs/documentation/Plating%20Protocol.md)
 
 ## Transformation
 [Electroporation into DH5a Protocol](https://github.com/idec2021/UOregon/blob/bf711403db1903ef54dd905520d94ff23040e5c8/docs/documentation/Electroporation.md)
