@@ -22,7 +22,7 @@
 10. Place the beaker or bottle(s) into an autoclave tray. 
 11. Autoclave the bottle(s). The duration depends on volume. Typically 1L needs 30min at 121C (not including ramp time). Larger volume needs longer time. You need to account for the fact that large volumes need longer time for entire volume to reach temperature because of the high specific capacity of water. Note that certain autoclave settings may cause the contents to boil over. 
 12. If using bottles, while waiting for autoclave prepare a 60C water bath. No need if using beaker. 
-13. Take tray out of autoclave (HOT! use golves) 
+13. Take tray out of autoclave with gloves  
 14. Make sure autoclave tape is dark. If not something went wrong. 
 15. If using bottle place it into hot water bath, submerging about 75%. Don't let dirty bath water get near mouth of the bottle. Dont place the bottle into the water bath immediately after taking it out of the autoclave since it will still be very hot and can actually warm up the water bath. Wait for it to cool a bit ~65C. If using beaker place on cold hotplate, very low stirring ~40rpm (make sure stirring is not making bubbles). 
 16. Use the IR thermometer to check the temperature of the bottle or beaker. 
@@ -33,4 +33,4 @@
 1. Get your plates and start pouring the media into them, opening one at a time. Pour as little as you can. I usually pour not enough to cover entire petri dish then gently tilt dish so that media covers everything. Avoid bubbles! For regular 100mm plates I usually pour in stacks of 5 plates. If you stack plates it prevents water condensation on the lids. 
 2. Wait until plates have solidified and turn them upside down. 
 3. Let the plates dry at least 2 hr before using. Fresh plates can be left at RT for a few days or placed into plastic bags (these come with petri dishes) and put into the cold room or fridge. 
-5. If you need to test your plates, streak out a strain with correct antibiotic and one with wrong antibiotic and check for correct growth after overnight growth. 
+
