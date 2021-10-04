@@ -498,7 +498,8 @@ Correct length = 776 bp
 
 ## August 13th 
 
-- To prevent primer self dimerization use smaller concentration : 100 nmole
+- To prevent primer self dimerization use smaller concentration of primers : 100 nmole
+- pGS21a_phi29 backbone for P1
 
 
 | Q5 | H2O | DNA | FWD Primer | REV Primer |
@@ -1244,15 +1245,15 @@ Cleanup Elute 21 uL
 
 Conc. : 
 
-TP Mut : ng/uL
+TP Mut : 27.2 ng/uL
 
-TP Mut backbone : ng/uL
+TP Mut backbone : 44.5 ng/uL
 
-Remix after TP : ng/uL
+Remix after TP : 44.1 ng/uL
 
-Remix after DS : ng/uL
+Remix after DS : 46.85 ng/uL
 
-P1 : ng/uL 
+P1 : 50.1 ng/uL 
 
 
 
