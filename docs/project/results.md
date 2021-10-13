@@ -66,7 +66,7 @@ Given the change in doubling time of cells expressing pGSɸ29 (Fig. 3), and the 
 
 THe pGSɸ29 backbone was amplified normally with PCR, and different sets of the replication proteins were amplified with error-prone PCR (EP PCR) to introduce base substitutions at a rate of ~10⁻⁴ substitutions per replicated base (Packer and Liu, 2015).  Successful amplification was validated with gel electrophoresis (Fig 5). All amplicons were the expected length. In future work, mutations will be evaluated using Sanger sequencing. 
 
-<img src="https://user-images.githubusercontent.com/59736592/137065714-07c08898-f7a4-4e68-baef-dd55e2ef02d0.png" alt = "Validation_of_PCR_mutagenesis" width = "600">
+<img src="https://user-images.githubusercontent.com/59736592/137065714-07c08898-f7a4-4e68-baef-dd55e2ef02d0.png" alt = "Validation_of_PCR_mutagenesis" width = "500">
 
 
 # <span style="color:royalblue"> **References** </span>
