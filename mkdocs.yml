@@ -1,7 +1,7 @@
 site_name: iDEC 2021 | UOregon
 
 theme:
-  name: minimal
+  name: material
   logo: img/idec-wiki-logo-white-bg.png
   favicon: img/idec-wiki-logo.png
 
