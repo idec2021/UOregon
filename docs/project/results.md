@@ -68,7 +68,6 @@ THe pGSɸ29 backbone was amplified normally with PCR, and different sets of the 
 
 <img src="https://user-images.githubusercontent.com/59736592/137065714-07c08898-f7a4-4e68-baef-dd55e2ef02d0.png" alt = "Validation_of_PCR_mutagenesis" width = "500">
 
-
 # <span style="color:royalblue"> **References** </span>
 (1) Rosano GL and Ceccarelli EA (2014) Recombinant protein expression in Escherichia coli: advances and challenges. Front. Microbiol. 5:172. doi: 10.3389/fmicb.2014.00172
 
